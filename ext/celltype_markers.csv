@@ -1,0 +1,1823 @@
+﻿Name,List,source
+C1QA,aDC-N,stCancer
+C1QB,aDC-N,stCancer
+CD80,aDC-N,stCancer
+FPR3,aDC-N,stCancer
+HLA-DQA1,aDC-N,stCancer
+IL12B,aDC-N,stCancer
+CCL13,aDC-N,stCancer
+CCL17,aDC-N,stCancer
+CCL19,aDC-N,stCancer
+CCL22,aDC-N,stCancer
+MS4A1,B cell-N,azimuth
+CD79A,B cell-N,azimuth
+CD37,B cell-N,azimuth
+CD79B,B cell-N,azimuth
+LTB,B cell-N,azimuth
+CD52,B cell-N,azimuth
+TCL1A,B cell-N,azimuth
+BANK1,B cell-N,azimuth
+VPREB3,B cell-N,azimuth
+POU2F2,B cell-N,azimuth
+CD19,B cell-N,cellmarker
+MS4A1,B cell-N,cellmarker
+CD80,B cell-N,cellmarker
+CD86,B cell-N,cellmarker
+CD79A,B cell-N,cellmarker
+PTPRC,B cell-N,cellmarker
+CD19,B cell-N,stCancer
+MS4A1,B cell-N,stCancer
+CD79A,B cell-N,stCancer
+KRT19,Bile duct cell-N,cellmarker
+KRT7,Bile duct cell-N,cellmarker
+SOX9,Cancer stem cell-T,cellmarker
+TRO,Cancer stem cell-T,cellmarker
+PROM1,Cancer stem cell-T,cellmarker
+CD24,Cancer stem cell-T,cellmarker
+EPCAM,Cancer stem cell-T,cellmarker
+ICAM1,Cancer stem cell-T,cellmarker
+NCAM1,Cancer stem cell-T,cellmarker
+THY1,Cancer stem cell-T,cellmarker
+ANPEP,Cancer stem cell-T,cellmarker
+POU5F1,Cancer stem cell-T,cellmarker
+DCLK1,Cancer stem cell-T,cellmarker
+AFP,Cancer stem cell-T,cellmarker
+CD44,Cancer stem cell-T,cellmarker
+GPC3,Cancer stem cell-T,cellmarker
+KLF8,Cancer stem cell-T,cellmarker
+CTNNB1,Cancer stem cell-T,cellmarker
+SOX2,Cancer stem cell-T,cellmarker
+A2M,CD4+ cytotoxic T cell-N,cellmarker
+ABCA2,CD4+ cytotoxic T cell-N,cellmarker
+ABI3,CD4+ cytotoxic T cell-N,cellmarker
+ADGRG1,CD4+ cytotoxic T cell-N,cellmarker
+ADGRG5,CD4+ cytotoxic T cell-N,cellmarker
+ADRB2,CD4+ cytotoxic T cell-N,cellmarker
+AGPAT4,CD4+ cytotoxic T cell-N,cellmarker
+AHNAK,CD4+ cytotoxic T cell-N,cellmarker
+AKR1C3,CD4+ cytotoxic T cell-N,cellmarker
+APMAP,CD4+ cytotoxic T cell-N,cellmarker
+ARL4C,CD4+ cytotoxic T cell-N,cellmarker
+ARL5A,CD4+ cytotoxic T cell-N,cellmarker
+C12orf75,CD4+ cytotoxic T cell-N,cellmarker
+C1orf21,CD4+ cytotoxic T cell-N,cellmarker
+CCL4,CD4+ cytotoxic T cell-N,cellmarker
+CCL5,CD4+ cytotoxic T cell-N,cellmarker
+CD244,CD4+ cytotoxic T cell-N,cellmarker
+CD300A,CD4+ cytotoxic T cell-N,cellmarker
+CEP78,CD4+ cytotoxic T cell-N,cellmarker
+CHST12,CD4+ cytotoxic T cell-N,cellmarker
+CST7,CD4+ cytotoxic T cell-N,cellmarker
+CTSW,CD4+ cytotoxic T cell-N,cellmarker
+CX3CR1,CD4+ cytotoxic T cell-N,cellmarker
+DSTN,CD4+ cytotoxic T cell-N,cellmarker
+EFHD2,CD4+ cytotoxic T cell-N,cellmarker
+FCGR3A,CD4+ cytotoxic T cell-N,cellmarker
+FCRL6,CD4+ cytotoxic T cell-N,cellmarker
+FGFBP2,CD4+ cytotoxic T cell-N,cellmarker
+FGR,CD4+ cytotoxic T cell-N,cellmarker
+FUT11,CD4+ cytotoxic T cell-N,cellmarker
+GK5,CD4+ cytotoxic T cell-N,cellmarker
+GLUL,CD4+ cytotoxic T cell-N,cellmarker
+GNLY,CD4+ cytotoxic T cell-N,cellmarker
+GSTP1,CD4+ cytotoxic T cell-N,cellmarker
+GZMA,CD4+ cytotoxic T cell-N,cellmarker
+GZMB,CD4+ cytotoxic T cell-N,cellmarker
+GZMH,CD4+ cytotoxic T cell-N,cellmarker
+GZMM,CD4+ cytotoxic T cell-N,cellmarker
+HOPX,CD4+ cytotoxic T cell-N,cellmarker
+KLRG1,CD4+ cytotoxic T cell-N,cellmarker
+LGR6,CD4+ cytotoxic T cell-N,cellmarker
+LILRB1,CD4+ cytotoxic T cell-N,cellmarker
+LITAF,CD4+ cytotoxic T cell-N,cellmarker
+LLGL2,CD4+ cytotoxic T cell-N,cellmarker
+LPCAT1,CD4+ cytotoxic T cell-N,cellmarker
+LYAR,CD4+ cytotoxic T cell-N,cellmarker
+MBP,CD4+ cytotoxic T cell-N,cellmarker
+MYBL1,CD4+ cytotoxic T cell-N,cellmarker
+MYO1F,CD4+ cytotoxic T cell-N,cellmarker
+NKG7,CD4+ cytotoxic T cell-N,cellmarker
+NPRL2,CD4+ cytotoxic T cell-N,cellmarker
+OSBPL5,CD4+ cytotoxic T cell-N,cellmarker
+PAFAH2,CD4+ cytotoxic T cell-N,cellmarker
+PATL2,CD4+ cytotoxic T cell-N,cellmarker
+PLEK,CD4+ cytotoxic T cell-N,cellmarker
+PLEKHA1,CD4+ cytotoxic T cell-N,cellmarker
+PLEKHG3,CD4+ cytotoxic T cell-N,cellmarker
+PRF1,CD4+ cytotoxic T cell-N,cellmarker
+PROK2,CD4+ cytotoxic T cell-N,cellmarker
+PRSS23,CD4+ cytotoxic T cell-N,cellmarker
+PTCH1,CD4+ cytotoxic T cell-N,cellmarker
+PTGDS,CD4+ cytotoxic T cell-N,cellmarker
+PTPN4,CD4+ cytotoxic T cell-N,cellmarker
+PXN,CD4+ cytotoxic T cell-N,cellmarker
+PZP,CD4+ cytotoxic T cell-N,cellmarker
+RAB29,CD4+ cytotoxic T cell-N,cellmarker
+RAP1B,CD4+ cytotoxic T cell-N,cellmarker
+RAP2B,CD4+ cytotoxic T cell-N,cellmarker
+RASSF1,CD4+ cytotoxic T cell-N,cellmarker
+RUNX3,CD4+ cytotoxic T cell-N,cellmarker
+S1PR5,CD4+ cytotoxic T cell-N,cellmarker
+SAMD3,CD4+ cytotoxic T cell-N,cellmarker
+SH3BP5,CD4+ cytotoxic T cell-N,cellmarker
+SLAMF7,CD4+ cytotoxic T cell-N,cellmarker
+SLC2A1,CD4+ cytotoxic T cell-N,cellmarker
+SPN,CD4+ cytotoxic T cell-N,cellmarker
+SPON2,CD4+ cytotoxic T cell-N,cellmarker
+SUN2,CD4+ cytotoxic T cell-N,cellmarker
+SYNE1,CD4+ cytotoxic T cell-N,cellmarker
+SYNE2,CD4+ cytotoxic T cell-N,cellmarker
+TARP,CD4+ cytotoxic T cell-N,cellmarker
+TGFBR3,CD4+ cytotoxic T cell-N,cellmarker
+TM4SF19,CD4+ cytotoxic T cell-N,cellmarker
+TMEM181,CD4+ cytotoxic T cell-N,cellmarker
+TTC16,CD4+ cytotoxic T cell-N,cellmarker
+TTC38,CD4+ cytotoxic T cell-N,cellmarker
+VCL,CD4+ cytotoxic T cell-N,cellmarker
+ZEB2,CD4+ cytotoxic T cell-N,cellmarker
+ZNF683,CD4+ cytotoxic T cell-N,cellmarker
+CD28,CD4+ memory T cell-N,stCancer
+CD40LG,CD4+ memory T cell-N,stCancer
+CCR4,CD4+ memory T cell-N,stCancer
+CTLA4,CD4+ memory T cell-N,stCancer
+GPR15,CD4+ memory T cell-N,stCancer
+GZMA,CD4+ memory T cell-N,stCancer
+GZMK,CD4+ memory T cell-N,stCancer
+HMGB2,CD4+ memory T cell-N,stCancer
+PDCD1,CD4+ memory T cell-N,stCancer
+RBL2,CD4+ memory T cell-N,stCancer
+CD226,CD4+ memory T cell-N,stCancer
+GPR171,CD4+ memory T cell-N,stCancer
+TRAT1,CD4+ memory T cell-N,stCancer
+UBASH3A,CD4+ memory T cell-N,stCancer
+ARHGAP15,CD4+ memory T cell-N,stCancer
+CD27,CD4+ naive T cell-N,stCancer
+CLC,CD4+ naive T cell-N,stCancer
+CTSW,CD4+ naive T cell-N,stCancer
+DNAJB1,CD4+ naive T cell-N,stCancer
+RBL2,CD4+ naive T cell-N,stCancer
+HAUS3,CD4+ naive T cell-N,stCancer
+ANKRD55,CD4+ naive T cell-N,stCancer
+ZNF394,CD4+ naive T cell-N,stCancer
+CHMP7,CD4+ naive T cell-N,stCancer
+CD3D,CD4+ T cell-N,cellmarker
+CD3E,CD4+ T cell-N,cellmarker
+CD3G,CD4+ T cell-N,cellmarker
+CD4,CD4+ T cell-N,cellmarker
+CD2,CD4+ T cell-N,stCancer
+CD3D,CD4+ T cell-N,stCancer
+CD3E,CD4+ T cell-N,stCancer
+CD3G,CD4+ T cell-N,stCancer
+CD5,CD4+ T cell-N,stCancer
+CD7,CD4+ T cell-N,stCancer
+CD27,CD4+ T cell-N,stCancer
+CD40LG,CD4+ T cell-N,stCancer
+CTLA4,CD4+ T cell-N,stCancer
+GOLGA4,CD4+ T cell-N,stCancer
+TRAF1,CD4+ T cell-N,stCancer
+CD96,CD4+ T cell-N,stCancer
+ICOS,CD4+ T cell-N,stCancer
+GPR171,CD4+ T cell-N,stCancer
+TRAT1,CD4+ T cell-N,stCancer
+FOXP3,CD4+ T cell-N,stCancer
+SIRPG,CD4+ T cell-N,stCancer
+RIC3,CD4+ T cell-N,stCancer
+CD40LG,CD4+ Tcm-N,stCancer
+CCR4,CD4+ Tcm-N,stCancer
+CCR8,CD4+ Tcm-N,stCancer
+CTLA4,CD4+ Tcm-N,stCancer
+DAB1,CD4+ Tcm-N,stCancer
+ERN1,CD4+ Tcm-N,stCancer
+GPR15,CD4+ Tcm-N,stCancer
+DNAJB1,CD4+ Tcm-N,stCancer
+KRT1,CD4+ Tcm-N,stCancer
+POU6F1,CD4+ Tcm-N,stCancer
+TPO,CD4+ Tcm-N,stCancer
+CDC14A,CD4+ Tcm-N,stCancer
+TRADD,CD4+ Tcm-N,stCancer
+DLEC1,CD4+ Tcm-N,stCancer
+ICOS,CD4+ Tcm-N,stCancer
+TRAT1,CD4+ Tcm-N,stCancer
+FXYD7,CD4+ Tcm-N,stCancer
+FBXL8,CD4+ Tcm-N,stCancer
+SIRPG,CD4+ Tcm-N,stCancer
+SLC4A5,CD4+ Tcm-N,stCancer
+ANKRD55,CD4+ Tcm-N,stCancer
+OBSCN,CD4+ Tcm-N,stCancer
+CD40LG,CD4+ Tem-N,stCancer
+CCR6,CD4+ Tem-N,stCancer
+KLRB1,CD4+ Tem-N,stCancer
+LTK,CD4+ Tem-N,stCancer
+MCF2L2,CD4+ Tem-N,stCancer
+GALNT8,CD4+ Tem-N,stCancer
+TRAT1,CD4+ Tem-N,stCancer
+CD3D,CD8+ T cell-N,cellmarker
+CD3E,CD8+ T cell-N,cellmarker
+CD3G,CD8+ T cell-N,cellmarker
+CD8A,CD8+ T cell-N,cellmarker
+CD8A,CD8+ T cell-N,stCancer
+CD8B,CD8+ T cell-N,stCancer
+CD8A,CD8+ Tcm-N,stCancer
+CD8B,CD8+ Tcm-N,stCancer
+CTSW,CD8+ Tcm-N,stCancer
+GZMK,CD8+ Tcm-N,stCancer
+IL2RB,CD8+ Tcm-N,stCancer
+SH2D1A,CD8+ Tcm-N,stCancer
+GPR171,CD8+ Tcm-N,stCancer
+CRTAM,CD8+ Tcm-N,stCancer
+USP36,CD8+ Tcm-N,stCancer
+TMEM30B,CD8+ Tcm-N,stCancer
+DHX8,CD8+ Tem-N,stCancer
+GZMH,CD8+ Tem-N,stCancer
+GZMK,CD8+ Tem-N,stCancer
+LAG3,CD8+ Tem-N,stCancer
+ZAP70,CD8+ Tem-N,stCancer
+COLQ,CD8+ Tem-N,stCancer
+RGS9,CD8+ Tem-N,stCancer
+CXCR6,CD8+ Tem-N,stCancer
+PVRIG,CD8+ Tem-N,stCancer
+PYHIN1,CD8+ Tem-N,stCancer
+CD1A,cDC-N,stCancer
+CD1B,cDC-N,stCancer
+CD1C,cDC-N,stCancer
+CD1E,cDC-N,stCancer
+CD80,cDC-N,stCancer
+CD86,cDC-N,stCancer
+FCER1A,cDC-N,stCancer
+GFRA2,cDC-N,stCancer
+CCL13,cDC-N,stCancer
+CCL17,cDC-N,stCancer
+CLEC10A,cDC-N,stCancer
+CD209,cDC-N,stCancer
+KCNK13,cDC-N,stCancer
+ANXA4,Cholangiocyte-N,azimuth
+KRT7,Cholangiocyte-N,azimuth
+DEFB1,Cholangiocyte-N,azimuth
+FXYD2,Cholangiocyte-N,azimuth
+TM4SF4,Cholangiocyte-N,azimuth
+KRT19,Cholangiocyte-N,azimuth
+KRT8,Cholangiocyte-N,azimuth
+TACSTD2,Cholangiocyte-N,azimuth
+EGRI1,Cholangiocyte-N,azimuth
+SPP1,Cholangiocyte-N,azimuth
+MMP7,Cholangiocyte-N,publication
+CD3D,Cytotoxic T cell-N,cellmarker
+CD3E,Cytotoxic T cell-N,cellmarker
+CD3G,Cytotoxic T cell-N,cellmarker
+CD8A,Cytotoxic T cell-N,cellmarker
+ITGAX,Dendritic cell-N,cellmarker
+CD80,Dendritic cell-N,cellmarker
+CD83,Dendritic cell-N,cellmarker
+IL3RA,Dendritic cell-N,cellmarker
+CD14,Dendritic cell-N,cellmarker
+CD68,Dendritic cell-N,cellmarker
+B4GALT5,EBV+ B lymphoma cell-T,cellmarker
+FCN3,Endothelial cell-N,azimuth
+DNASE1L3,Endothelial cell-N,azimuth
+CRHBP,Endothelial cell-N,azimuth
+AKAP12,Endothelial cell-N,azimuth
+CLEC4G,Endothelial cell-N,azimuth
+FCN2,Endothelial cell-N,azimuth
+IFI27,Endothelial cell-N,azimuth
+IGFBP7,Endothelial cell-N,azimuth
+LIFR,Endothelial cell-N,azimuth
+ID1,Endothelial cell-N,azimuth
+PTPRC,Endothelial cell-N,cellmarker
+TFRC,Endothelial cell-N,cellmarker
+DLK1,Endothelial cell-N,cellmarker
+KDR,Endothelial cell-N,cellmarker
+MCAM,Endothelial cell-N,cellmarker
+PECAM1,Endothelial cell-N,cellmarker
+VWF,Endothelial cell-N,cellmarker
+CD34,Endothelial cell-N,cellmarker
+STAB2,Endothelial cell-N,cellmarker
+ENG,Endothelial cell-N,cellmarker
+APPBP2,Endothelial cell-N,cellmarker
+ARGLU1,Endothelial cell-N,cellmarker
+ATP10D,Endothelial cell-N,cellmarker
+BNIP1,Endothelial cell-N,cellmarker
+BST2,Endothelial cell-N,cellmarker
+BTNL9,Endothelial cell-N,cellmarker
+C11orf96,Endothelial cell-N,cellmarker
+C3orf58,Endothelial cell-N,cellmarker
+CCDC85B,Endothelial cell-N,cellmarker
+CCL14,Endothelial cell-N,cellmarker
+CD4,Endothelial cell-N,cellmarker
+CDC73,Endothelial cell-N,cellmarker
+CDKL1,Endothelial cell-N,cellmarker
+CHD4,Endothelial cell-N,cellmarker
+CLEC1B,Endothelial cell-N,cellmarker
+CLEC2B,Endothelial cell-N,cellmarker
+CLEC4G,Endothelial cell-N,cellmarker
+CLEC4M,Endothelial cell-N,cellmarker
+CRBN,Endothelial cell-N,cellmarker
+CRHBP,Endothelial cell-N,cellmarker
+CTSL,Endothelial cell-N,cellmarker
+DCLRE1C,Endothelial cell-N,cellmarker
+DLC1,Endothelial cell-N,cellmarker
+DLG1,Endothelial cell-N,cellmarker
+DNASE1L3,Endothelial cell-N,cellmarker
+DOCK1,Endothelial cell-N,cellmarker
+DUSP5,Endothelial cell-N,cellmarker
+EFNB2,Endothelial cell-N,cellmarker
+F8,Endothelial cell-N,cellmarker
+FCN2,Endothelial cell-N,cellmarker
+FCN3,Endothelial cell-N,cellmarker
+FILIP1,Endothelial cell-N,cellmarker
+FOSB,Endothelial cell-N,cellmarker
+FXYD6,Endothelial cell-N,cellmarker
+GBP4,Endothelial cell-N,cellmarker
+GGA2,Endothelial cell-N,cellmarker
+GNG11,Endothelial cell-N,cellmarker
+HES1,Endothelial cell-N,cellmarker
+HYI,Endothelial cell-N,cellmarker
+IL1R1,Endothelial cell-N,cellmarker
+IL33,Endothelial cell-N,cellmarker
+KIF1B,Endothelial cell-N,cellmarker
+KLHL28,Endothelial cell-N,cellmarker
+LDB2,Endothelial cell-N,cellmarker
+MCM3AP,Endothelial cell-N,cellmarker
+MEF2C,Endothelial cell-N,cellmarker
+MFN1,Endothelial cell-N,cellmarker
+MGAT5,Endothelial cell-N,cellmarker
+MPZL3,Endothelial cell-N,cellmarker
+MRC1,Endothelial cell-N,cellmarker
+OIT3,Endothelial cell-N,cellmarker
+PIK3C2A,Endothelial cell-N,cellmarker
+PPWD1,Endothelial cell-N,cellmarker
+RASGEF1B,Endothelial cell-N,cellmarker
+RASGRP3,Endothelial cell-N,cellmarker
+RELN,Endothelial cell-N,cellmarker
+RIN2,Endothelial cell-N,cellmarker
+SECISBP2L,Endothelial cell-N,cellmarker
+STAB1,Endothelial cell-N,cellmarker
+STRN3,Endothelial cell-N,cellmarker
+TCF12,Endothelial cell-N,cellmarker
+TEX264,Endothelial cell-N,cellmarker
+TRAPPC11,Endothelial cell-N,cellmarker
+TSPAN7,Endothelial cell-N,cellmarker
+USP48,Endothelial cell-N,cellmarker
+ZNF286B,Endothelial cell-N,cellmarker
+CLDN5,Endothelial cell-N,stCancer
+PECAM1,Endothelial cell-N,stCancer
+CD34,Endothelial cell-N,stCancer
+FLT1,Endothelial cell-N,stCancer
+VWF,Endothelial cell-N,stCancer
+ENG,Endothelial cell-N,stCancer
+CDH5,Endothelial cell-N,stCancer
+FLT4,Endothelial cell-N,stCancer
+HYAL2,Endothelial cell-N,stCancer
+CLEC1A,Endothelial cell-N,stCancer
+SOX18,Endothelial cell-N,stCancer
+ROBO4,Endothelial cell-N,stCancer
+CXorf36,Endothelial cell-N,stCancer
+MYCT1,Endothelial cell-N,stCancer
+KANK3,Endothelial cell-N,stCancer
+ACVRL1,Endothelial cell-N,stCancer
+CETP,Endothelial cell-N,stCancer
+RANGAP1,Endothelial cell-N,stCancer
+SELE,Endothelial cell-N,stCancer
+TIE1,Endothelial cell-N,stCancer
+EIF2B2,Endothelial cell-N,stCancer
+TNFSF18,Endothelial cell-N,stCancer
+LYVE1,Endothelial cell-N,stCancer
+ARHGEF15,Endothelial cell-N,stCancer
+MMRN2,Endothelial cell-N,stCancer
+ADAM19,Exhausted CD4+ T cell-N,cellmarker
+AHI1,Exhausted CD4+ T cell-N,cellmarker
+AKAP5,Exhausted CD4+ T cell-N,cellmarker
+AKR1A1,Exhausted CD4+ T cell-N,cellmarker
+ARHGAP9,Exhausted CD4+ T cell-N,cellmarker
+ASB2,Exhausted CD4+ T cell-N,cellmarker
+ATP6V1A,Exhausted CD4+ T cell-N,cellmarker
+ATXN1,Exhausted CD4+ T cell-N,cellmarker
+BATF,Exhausted CD4+ T cell-N,cellmarker
+BST2,Exhausted CD4+ T cell-N,cellmarker
+BTLA,Exhausted CD4+ T cell-N,cellmarker
+C9orf16,Exhausted CD4+ T cell-N,cellmarker
+CAMK1,Exhausted CD4+ T cell-N,cellmarker
+CAPZB,Exhausted CD4+ T cell-N,cellmarker
+CCDC50,Exhausted CD4+ T cell-N,cellmarker
+CD38,Exhausted CD4+ T cell-N,cellmarker
+CD82,Exhausted CD4+ T cell-N,cellmarker
+CD84,Exhausted CD4+ T cell-N,cellmarker
+CDKN2A,Exhausted CD4+ T cell-N,cellmarker
+CHN1,Exhausted CD4+ T cell-N,cellmarker
+CKAP2,Exhausted CD4+ T cell-N,cellmarker
+CLTC,Exhausted CD4+ T cell-N,cellmarker
+CREM,Exhausted CD4+ T cell-N,cellmarker
+CTLA4,Exhausted CD4+ T cell-N,cellmarker
+CTSD,Exhausted CD4+ T cell-N,cellmarker
+CXCL13,Exhausted CD4+ T cell-N,cellmarker
+DBNL,Exhausted CD4+ T cell-N,cellmarker
+DNPH1,Exhausted CD4+ T cell-N,cellmarker
+DR1,Exhausted CD4+ T cell-N,cellmarker
+DUSP4,Exhausted CD4+ T cell-N,cellmarker
+ENTPD1,Exhausted CD4+ T cell-N,cellmarker
+EPSTI1,Exhausted CD4+ T cell-N,cellmarker
+ETV7,Exhausted CD4+ T cell-N,cellmarker
+F2R,Exhausted CD4+ T cell-N,cellmarker
+FUT8,Exhausted CD4+ T cell-N,cellmarker
+GALM,Exhausted CD4+ T cell-N,cellmarker
+GAPDH,Exhausted CD4+ T cell-N,cellmarker
+GBP4,Exhausted CD4+ T cell-N,cellmarker
+GNG4,Exhausted CD4+ T cell-N,cellmarker
+GSPT1,Exhausted CD4+ T cell-N,cellmarker
+HAVCR2,Exhausted CD4+ T cell-N,cellmarker
+HNRNPK,Exhausted CD4+ T cell-N,cellmarker
+ICOS,Exhausted CD4+ T cell-N,cellmarker
+IFI27L2,Exhausted CD4+ T cell-N,cellmarker
+IFI35,Exhausted CD4+ T cell-N,cellmarker
+IFNG,Exhausted CD4+ T cell-N,cellmarker
+IGFLR1,Exhausted CD4+ T cell-N,cellmarker
+IKZF3,Exhausted CD4+ T cell-N,cellmarker
+IL21,Exhausted CD4+ T cell-N,cellmarker
+ITGA2,Exhausted CD4+ T cell-N,cellmarker
+ITM2A,Exhausted CD4+ T cell-N,cellmarker
+KCNK5,Exhausted CD4+ T cell-N,cellmarker
+LAP3,Exhausted CD4+ T cell-N,cellmarker
+LASP1,Exhausted CD4+ T cell-N,cellmarker
+LIMA1,Exhausted CD4+ T cell-N,cellmarker
+LIMS1,Exhausted CD4+ T cell-N,cellmarker
+LYST,Exhausted CD4+ T cell-N,cellmarker
+MAF,Exhausted CD4+ T cell-N,cellmarker
+MAP1LC3A,Exhausted CD4+ T cell-N,cellmarker
+MAPKAPK3,Exhausted CD4+ T cell-N,cellmarker
+METTL8,Exhausted CD4+ T cell-N,cellmarker
+N4BP2,Exhausted CD4+ T cell-N,cellmarker
+NAB1,Exhausted CD4+ T cell-N,cellmarker
+NDFIP2,Exhausted CD4+ T cell-N,cellmarker
+NMI,Exhausted CD4+ T cell-N,cellmarker
+NR3C1,Exhausted CD4+ T cell-N,cellmarker
+NUTF2,Exhausted CD4+ T cell-N,cellmarker
+OGG1,Exhausted CD4+ T cell-N,cellmarker
+PDCD1,Exhausted CD4+ T cell-N,cellmarker
+PDE7B,Exhausted CD4+ T cell-N,cellmarker
+PHEX,Exhausted CD4+ T cell-N,cellmarker
+PHTF2,Exhausted CD4+ T cell-N,cellmarker
+PKM,Exhausted CD4+ T cell-N,cellmarker
+PRKAG1,Exhausted CD4+ T cell-N,cellmarker
+PRKAR1A,Exhausted CD4+ T cell-N,cellmarker
+PSME2,Exhausted CD4+ T cell-N,cellmarker
+PTPN11,Exhausted CD4+ T cell-N,cellmarker
+PTTG1,Exhausted CD4+ T cell-N,cellmarker
+RAB11FIP1,Exhausted CD4+ T cell-N,cellmarker
+RABGAP1L,Exhausted CD4+ T cell-N,cellmarker
+RBPJ,Exhausted CD4+ T cell-N,cellmarker
+RGS1,Exhausted CD4+ T cell-N,cellmarker
+RGS2,Exhausted CD4+ T cell-N,cellmarker
+RHBDD2,Exhausted CD4+ T cell-N,cellmarker
+RILPL2,Exhausted CD4+ T cell-N,cellmarker
+RNF19A,Exhausted CD4+ T cell-N,cellmarker
+SARDH,Exhausted CD4+ T cell-N,cellmarker
+SFXN1,Exhausted CD4+ T cell-N,cellmarker
+SIRPG,Exhausted CD4+ T cell-N,cellmarker
+SLC6A6,Exhausted CD4+ T cell-N,cellmarker
+SLC9A9,Exhausted CD4+ T cell-N,cellmarker
+SMC5,Exhausted CD4+ T cell-N,cellmarker
+SPOCK2,Exhausted CD4+ T cell-N,cellmarker
+SRGN,Exhausted CD4+ T cell-N,cellmarker
+ST8SIA1,Exhausted CD4+ T cell-N,cellmarker
+SUSD6,Exhausted CD4+ T cell-N,cellmarker
+SYNJ1,Exhausted CD4+ T cell-N,cellmarker
+TBC1D2B,Exhausted CD4+ T cell-N,cellmarker
+TBXAS1,Exhausted CD4+ T cell-N,cellmarker
+TIGIT,Exhausted CD4+ T cell-N,cellmarker
+TNFRSF18,Exhausted CD4+ T cell-N,cellmarker
+TNFSF8,Exhausted CD4+ T cell-N,cellmarker
+TOX,Exhausted CD4+ T cell-N,cellmarker
+TOX2,Exhausted CD4+ T cell-N,cellmarker
+TPI1,Exhausted CD4+ T cell-N,cellmarker
+TRAF3,Exhausted CD4+ T cell-N,cellmarker
+TRPS1,Exhausted CD4+ T cell-N,cellmarker
+UBE2L6,Exhausted CD4+ T cell-N,cellmarker
+UQCRH,Exhausted CD4+ T cell-N,cellmarker
+WARS,Exhausted CD4+ T cell-N,cellmarker
+WSB2,Exhausted CD4+ T cell-N,cellmarker
+ZBED2,Exhausted CD4+ T cell-N,cellmarker
+ZEB1,Exhausted CD4+ T cell-N,cellmarker
+ABCG1,Exhausted CD8+ T cell-T,cellmarker
+ACP5,Exhausted CD8+ T cell-T,cellmarker
+ACSL4,Exhausted CD8+ T cell-T,cellmarker
+ACTN4,Exhausted CD8+ T cell-T,cellmarker
+AFAP1L2,Exhausted CD8+ T cell-T,cellmarker
+AHI1,Exhausted CD8+ T cell-T,cellmarker
+AIP,Exhausted CD8+ T cell-T,cellmarker
+AKAP5,Exhausted CD8+ T cell-T,cellmarker
+ANKRD10,Exhausted CD8+ T cell-T,cellmarker
+ANXA5,Exhausted CD8+ T cell-T,cellmarker
+APOBEC3C,Exhausted CD8+ T cell-T,cellmarker
+APOBEC3D,Exhausted CD8+ T cell-T,cellmarker
+APOBEC3F,Exhausted CD8+ T cell-T,cellmarker
+APOBEC3G,Exhausted CD8+ T cell-T,cellmarker
+ARHGAP9,Exhausted CD8+ T cell-T,cellmarker
+ARID5B,Exhausted CD8+ T cell-T,cellmarker
+ARL3,Exhausted CD8+ T cell-T,cellmarker
+ARNT,Exhausted CD8+ T cell-T,cellmarker
+ARPC1B,Exhausted CD8+ T cell-T,cellmarker
+ASB2,Exhausted CD8+ T cell-T,cellmarker
+ATP10D,Exhausted CD8+ T cell-T,cellmarker
+ATP8B4,Exhausted CD8+ T cell-T,cellmarker
+ATXN1,Exhausted CD8+ T cell-T,cellmarker
+BATF,Exhausted CD8+ T cell-T,cellmarker
+BCL2L11,Exhausted CD8+ T cell-T,cellmarker
+BLOC1S2,Exhausted CD8+ T cell-T,cellmarker
+BST2,Exhausted CD8+ T cell-T,cellmarker
+BTG3,Exhausted CD8+ T cell-T,cellmarker
+CALCOCO2,Exhausted CD8+ T cell-T,cellmarker
+CALM3,Exhausted CD8+ T cell-T,cellmarker
+CAMK1,Exhausted CD8+ T cell-T,cellmarker
+CAPZA2,Exhausted CD8+ T cell-T,cellmarker
+CASP3,Exhausted CD8+ T cell-T,cellmarker
+CAT,Exhausted CD8+ T cell-T,cellmarker
+CBLB,Exhausted CD8+ T cell-T,cellmarker
+CCDC141,Exhausted CD8+ T cell-T,cellmarker
+CCL3,Exhausted CD8+ T cell-T,cellmarker
+CCND2,Exhausted CD8+ T cell-T,cellmarker
+CD200,Exhausted CD8+ T cell-T,cellmarker
+CD27,Exhausted CD8+ T cell-T,cellmarker
+CD2BP2,Exhausted CD8+ T cell-T,cellmarker
+CD38,Exhausted CD8+ T cell-T,cellmarker
+CD63,Exhausted CD8+ T cell-T,cellmarker
+CD7,Exhausted CD8+ T cell-T,cellmarker
+CD70,Exhausted CD8+ T cell-T,cellmarker
+CD82,Exhausted CD8+ T cell-T,cellmarker
+CD84,Exhausted CD8+ T cell-T,cellmarker
+CHST12,Exhausted CD8+ T cell-T,cellmarker
+CLECL1,Exhausted CD8+ T cell-T,cellmarker
+CLNK,Exhausted CD8+ T cell-T,cellmarker
+CLSTN3,Exhausted CD8+ T cell-T,cellmarker
+COQ10B,Exhausted CD8+ T cell-T,cellmarker
+COTL1,Exhausted CD8+ T cell-T,cellmarker
+CREM,Exhausted CD8+ T cell-T,cellmarker
+CSF1,Exhausted CD8+ T cell-T,cellmarker
+CSNK2B,Exhausted CD8+ T cell-T,cellmarker
+CTLA4,Exhausted CD8+ T cell-T,cellmarker
+CTNNA1,Exhausted CD8+ T cell-T,cellmarker
+CTNNB1,Exhausted CD8+ T cell-T,cellmarker
+CTSB,Exhausted CD8+ T cell-T,cellmarker
+CTSD,Exhausted CD8+ T cell-T,cellmarker
+CXCL13,Exhausted CD8+ T cell-T,cellmarker
+CXCR6,Exhausted CD8+ T cell-T,cellmarker
+DCAF11,Exhausted CD8+ T cell-T,cellmarker
+DDX60,Exhausted CD8+ T cell-T,cellmarker
+DGKH,Exhausted CD8+ T cell-T,cellmarker
+DRAP1,Exhausted CD8+ T cell-T,cellmarker
+DUSP4,Exhausted CD8+ T cell-T,cellmarker
+EID1,Exhausted CD8+ T cell-T,cellmarker
+ENTPD1,Exhausted CD8+ T cell-T,cellmarker
+EPSTI1,Exhausted CD8+ T cell-T,cellmarker
+ETNK1,Exhausted CD8+ T cell-T,cellmarker
+ETV1,Exhausted CD8+ T cell-T,cellmarker
+EWSR1,Exhausted CD8+ T cell-T,cellmarker
+FAM3C,Exhausted CD8+ T cell-T,cellmarker
+FASLG,Exhausted CD8+ T cell-T,cellmarker
+FIBP,Exhausted CD8+ T cell-T,cellmarker
+FKBP1A,Exhausted CD8+ T cell-T,cellmarker
+FUT8,Exhausted CD8+ T cell-T,cellmarker
+GABARAPL1,Exhausted CD8+ T cell-T,cellmarker
+GALM,Exhausted CD8+ T cell-T,cellmarker
+GALNT2,Exhausted CD8+ T cell-T,cellmarker
+GAPDH,Exhausted CD8+ T cell-T,cellmarker
+GATA3,Exhausted CD8+ T cell-T,cellmarker
+GBP1,Exhausted CD8+ T cell-T,cellmarker
+GBP2,Exhausted CD8+ T cell-T,cellmarker
+GBP4,Exhausted CD8+ T cell-T,cellmarker
+GCNT1,Exhausted CD8+ T cell-T,cellmarker
+GFOD1,Exhausted CD8+ T cell-T,cellmarker
+GGA2,Exhausted CD8+ T cell-T,cellmarker
+GLDC,Exhausted CD8+ T cell-T,cellmarker
+GMDS,Exhausted CD8+ T cell-T,cellmarker
+GOLIM4,Exhausted CD8+ T cell-T,cellmarker
+GPD2,Exhausted CD8+ T cell-T,cellmarker
+GSTO1,Exhausted CD8+ T cell-T,cellmarker
+GTF2I,Exhausted CD8+ T cell-T,cellmarker
+HAVCR2,Exhausted CD8+ T cell-T,cellmarker
+HLA-DMA,Exhausted CD8+ T cell-T,cellmarker
+HLA-DRA,Exhausted CD8+ T cell-T,cellmarker
+HMOX1,Exhausted CD8+ T cell-T,cellmarker
+HNRNPLL,Exhausted CD8+ T cell-T,cellmarker
+ICAM3,Exhausted CD8+ T cell-T,cellmarker
+ICOS,Exhausted CD8+ T cell-T,cellmarker
+ID2,Exhausted CD8+ T cell-T,cellmarker
+ID3,Exhausted CD8+ T cell-T,cellmarker
+IFI16,Exhausted CD8+ T cell-T,cellmarker
+IFI27L2,Exhausted CD8+ T cell-T,cellmarker
+IFI35,Exhausted CD8+ T cell-T,cellmarker
+IFI6,Exhausted CD8+ T cell-T,cellmarker
+IFNG,Exhausted CD8+ T cell-T,cellmarker
+IGFLR1,Exhausted CD8+ T cell-T,cellmarker
+IKZF3,Exhausted CD8+ T cell-T,cellmarker
+IL21R,Exhausted CD8+ T cell-T,cellmarker
+IL2RB,Exhausted CD8+ T cell-T,cellmarker
+INPP5F,Exhausted CD8+ T cell-T,cellmarker
+IRF2,Exhausted CD8+ T cell-T,cellmarker
+IRF9,Exhausted CD8+ T cell-T,cellmarker
+ITGAE,Exhausted CD8+ T cell-T,cellmarker
+ITM2A,Exhausted CD8+ T cell-T,cellmarker
+JMJD4,Exhausted CD8+ T cell-T,cellmarker
+KIF20B,Exhausted CD8+ T cell-T,cellmarker
+KIR2DL4,Exhausted CD8+ T cell-T,cellmarker
+KLRC4,Exhausted CD8+ T cell-T,cellmarker
+KRT86,Exhausted CD8+ T cell-T,cellmarker
+LAG3,Exhausted CD8+ T cell-T,cellmarker
+LAT2,Exhausted CD8+ T cell-T,cellmarker
+LAYN,Exhausted CD8+ T cell-T,cellmarker
+LDHA,Exhausted CD8+ T cell-T,cellmarker
+LIMK1,Exhausted CD8+ T cell-T,cellmarker
+LIMS1,Exhausted CD8+ T cell-T,cellmarker
+LSM2,Exhausted CD8+ T cell-T,cellmarker
+LSP1,Exhausted CD8+ T cell-T,cellmarker
+LY6E,Exhausted CD8+ T cell-T,cellmarker
+LY6G5B,Exhausted CD8+ T cell-T,cellmarker
+LYST,Exhausted CD8+ T cell-T,cellmarker
+MAD2L2,Exhausted CD8+ T cell-T,cellmarker
+MAP2K3,Exhausted CD8+ T cell-T,cellmarker
+MAPKAPK3,Exhausted CD8+ T cell-T,cellmarker
+MAPRE2,Exhausted CD8+ T cell-T,cellmarker
+MCL1,Exhausted CD8+ T cell-T,cellmarker
+MIS18BP1,Exhausted CD8+ T cell-T,cellmarker
+MS4A6A,Exhausted CD8+ T cell-T,cellmarker
+MTHFD1,Exhausted CD8+ T cell-T,cellmarker
+MTHFD2,Exhausted CD8+ T cell-T,cellmarker
+MX1,Exhausted CD8+ T cell-T,cellmarker
+MYO1E,Exhausted CD8+ T cell-T,cellmarker
+MYO7A,Exhausted CD8+ T cell-T,cellmarker
+NAB1,Exhausted CD8+ T cell-T,cellmarker
+NAPA,Exhausted CD8+ T cell-T,cellmarker
+NASP,Exhausted CD8+ T cell-T,cellmarker
+NCF4,Exhausted CD8+ T cell-T,cellmarker
+NDFIP2,Exhausted CD8+ T cell-T,cellmarker
+NEDD9,Exhausted CD8+ T cell-T,cellmarker
+NFAT5,Exhausted CD8+ T cell-T,cellmarker
+NR4A2,Exhausted CD8+ T cell-T,cellmarker
+NRBP1,Exhausted CD8+ T cell-T,cellmarker
+NUDT5,Exhausted CD8+ T cell-T,cellmarker
+OAS3,Exhausted CD8+ T cell-T,cellmarker
+OASL,Exhausted CD8+ T cell-T,cellmarker
+OS9,Exhausted CD8+ T cell-T,cellmarker
+OSBPL3,Exhausted CD8+ T cell-T,cellmarker
+P2RY10,Exhausted CD8+ T cell-T,cellmarker
+PAM,Exhausted CD8+ T cell-T,cellmarker
+PARK7,Exhausted CD8+ T cell-T,cellmarker
+PARP14,Exhausted CD8+ T cell-T,cellmarker
+PDCD1,Exhausted CD8+ T cell-T,cellmarker
+PDE7B,Exhausted CD8+ T cell-T,cellmarker
+PDLIM7,Exhausted CD8+ T cell-T,cellmarker
+PELI1,Exhausted CD8+ T cell-T,cellmarker
+PFKP,Exhausted CD8+ T cell-T,cellmarker
+PHEX,Exhausted CD8+ T cell-T,cellmarker
+PHLDA1,Exhausted CD8+ T cell-T,cellmarker
+PHTF2,Exhausted CD8+ T cell-T,cellmarker
+PKM,Exhausted CD8+ T cell-T,cellmarker
+PLPP1,Exhausted CD8+ T cell-T,cellmarker
+PLSCR1,Exhausted CD8+ T cell-T,cellmarker
+PMF1,Exhausted CD8+ T cell-T,cellmarker
+PMF1-BGLAP,Exhausted CD8+ T cell-T,cellmarker
+PON2,Exhausted CD8+ T cell-T,cellmarker
+PPM1G,Exhausted CD8+ T cell-T,cellmarker
+PPM1M,Exhausted CD8+ T cell-T,cellmarker
+PRDM1,Exhausted CD8+ T cell-T,cellmarker
+PRDX5,Exhausted CD8+ T cell-T,cellmarker
+PRKAR1A,Exhausted CD8+ T cell-T,cellmarker
+PRKCH,Exhausted CD8+ T cell-T,cellmarker
+PSMA5,Exhausted CD8+ T cell-T,cellmarker
+PSME2,Exhausted CD8+ T cell-T,cellmarker
+PSTPIP1,Exhausted CD8+ T cell-T,cellmarker
+PTGIS,Exhausted CD8+ T cell-T,cellmarker
+PTMS,Exhausted CD8+ T cell-T,cellmarker
+PTPN11,Exhausted CD8+ T cell-T,cellmarker
+PTPN22,Exhausted CD8+ T cell-T,cellmarker
+PTPN7,Exhausted CD8+ T cell-T,cellmarker
+RAB27A,Exhausted CD8+ T cell-T,cellmarker
+RALGDS,Exhausted CD8+ T cell-T,cellmarker
+RBPJ,Exhausted CD8+ T cell-T,cellmarker
+RFX5,Exhausted CD8+ T cell-T,cellmarker
+RGS1,Exhausted CD8+ T cell-T,cellmarker
+RGS2,Exhausted CD8+ T cell-T,cellmarker
+RHBDD2,Exhausted CD8+ T cell-T,cellmarker
+RHOH,Exhausted CD8+ T cell-T,cellmarker
+RIN3,Exhausted CD8+ T cell-T,cellmarker
+RNF19A,Exhausted CD8+ T cell-T,cellmarker
+RNF31,Exhausted CD8+ T cell-T,cellmarker
+SAMD9L,Exhausted CD8+ T cell-T,cellmarker
+SAMSN1,Exhausted CD8+ T cell-T,cellmarker
+SARDH,Exhausted CD8+ T cell-T,cellmarker
+SCO2,Exhausted CD8+ T cell-T,cellmarker
+SEL1L3,Exhausted CD8+ T cell-T,cellmarker
+SEMA4A,Exhausted CD8+ T cell-T,cellmarker
+SIRPG,Exhausted CD8+ T cell-T,cellmarker
+SLA,Exhausted CD8+ T cell-T,cellmarker
+SLC2A8,Exhausted CD8+ T cell-T,cellmarker
+SLC4A5,Exhausted CD8+ T cell-T,cellmarker
+SNAP47,Exhausted CD8+ T cell-T,cellmarker
+SNX17,Exhausted CD8+ T cell-T,cellmarker
+SNX9,Exhausted CD8+ T cell-T,cellmarker
+SP140,Exhausted CD8+ T cell-T,cellmarker
+SPTAN1,Exhausted CD8+ T cell-T,cellmarker
+SRGAP3,Exhausted CD8+ T cell-T,cellmarker
+SRGN,Exhausted CD8+ T cell-T,cellmarker
+SRI,Exhausted CD8+ T cell-T,cellmarker
+SSH1,Exhausted CD8+ T cell-T,cellmarker
+STAM,Exhausted CD8+ T cell-T,cellmarker
+STARD4,Exhausted CD8+ T cell-T,cellmarker
+STAT3,Exhausted CD8+ T cell-T,cellmarker
+SUSD6,Exhausted CD8+ T cell-T,cellmarker
+SYNGR2,Exhausted CD8+ T cell-T,cellmarker
+TBC1D4,Exhausted CD8+ T cell-T,cellmarker
+TBK1,Exhausted CD8+ T cell-T,cellmarker
+TBL1XR1,Exhausted CD8+ T cell-T,cellmarker
+TET2,Exhausted CD8+ T cell-T,cellmarker
+TFRC,Exhausted CD8+ T cell-T,cellmarker
+TIGIT,Exhausted CD8+ T cell-T,cellmarker
+TNFAIP3,Exhausted CD8+ T cell-T,cellmarker
+TNFRSF1B,Exhausted CD8+ T cell-T,cellmarker
+TNFRSF9,Exhausted CD8+ T cell-T,cellmarker
+TNFSF4,Exhausted CD8+ T cell-T,cellmarker
+TNS3,Exhausted CD8+ T cell-T,cellmarker
+TOX,Exhausted CD8+ T cell-T,cellmarker
+TOX2,Exhausted CD8+ T cell-T,cellmarker
+TPI1,Exhausted CD8+ T cell-T,cellmarker
+TRAF5,Exhausted CD8+ T cell-T,cellmarker
+TRAFD1,Exhausted CD8+ T cell-T,cellmarker
+TRPS1,Exhausted CD8+ T cell-T,cellmarker
+TTC24,Exhausted CD8+ T cell-T,cellmarker
+TTYH3,Exhausted CD8+ T cell-T,cellmarker
+TYMP,Exhausted CD8+ T cell-T,cellmarker
+UBASH3B,Exhausted CD8+ T cell-T,cellmarker
+UBE2L6,Exhausted CD8+ T cell-T,cellmarker
+VAMP5,Exhausted CD8+ T cell-T,cellmarker
+VCAM1,Exhausted CD8+ T cell-T,cellmarker
+VMP1,Exhausted CD8+ T cell-T,cellmarker
+WARS,Exhausted CD8+ T cell-T,cellmarker
+WHRN,Exhausted CD8+ T cell-T,cellmarker
+YARS,Exhausted CD8+ T cell-T,cellmarker
+ZBED2,Exhausted CD8+ T cell-T,cellmarker
+ZFP36L1,Exhausted CD8+ T cell-T,cellmarker
+ZMYM5,Exhausted CD8+ T cell-T,cellmarker
+ZNF79,Exhausted CD8+ T cell-T,cellmarker
+COL1A2,Fibroblasts-N,stCancer
+FAP,Fibroblasts-N,stCancer
+PDPN,Fibroblasts-N,stCancer
+DCN,Fibroblasts-N,stCancer
+COL3A1,Fibroblasts-N,stCancer
+COL6A1,Fibroblasts-N,stCancer
+COL1A1,Fibroblasts-N,stCancer
+PTPRC,Hematopoietic cell-N,cellmarker
+TFRC,Hematopoietic cell-N,cellmarker
+CD34,Hematopoietic cell-N,cellmarker
+CD109,Hematopoietic cell-N,cellmarker
+PTPRC,Hepatoblast-N,cellmarker
+TFRC,Hepatoblast-N,cellmarker
+DLK1,Hepatoblast-N,cellmarker
+PDGFRA,Hepatoblast-N,cellmarker
+FABP1,Hepatocyte-N,azimuth
+CYP2E1,Hepatocyte-N,azimuth
+HP,Hepatocyte-N,azimuth
+ORM1,Hepatocyte-N,azimuth
+APOA2,Hepatocyte-N,azimuth
+ADH4,Hepatocyte-N,azimuth
+TTR,Hepatocyte-N,azimuth
+APOA1,Hepatocyte-N,azimuth
+APOC1,Hepatocyte-N,azimuth
+APOC3,Hepatocyte-N,azimuth
+ALB,Hepatocyte-N,cellmarker
+KRT18,Hepatocyte-N,cellmarker
+AFP,Hepatocyte-N,cellmarker
+P49715,Hepatocyte-N,cellmarker
+HNF4A,Hepatocyte-N,cellmarker
+TAT,Hepatocyte-N,cellmarker
+CPS1,Hepatocyte-N,cellmarker
+ARG1,Hepatocyte-N,cellmarker
+KRT8,Hepatocyte-N,cellmarker
+CYP3A4,Hepatocyte-N,cellmarker
+ABCC2,Hepatocyte-N,cellmarker
+TJP1,Hepatocyte-N,cellmarker
+MME,Hepatocyte-N,cellmarker
+CYP2C9,Hepatocyte-N,cellmarker
+HAMP,Hepatocyte-N,stCancer
+CYP1A2,Hepatocyte-N,stCancer
+APOF,Hepatocyte-N,stCancer
+CYP3A4,Hepatocyte-N,stCancer
+C9,Hepatocyte-N,stCancer
+ADH4,Hepatocyte-N,stCancer
+SLC22A1,Hepatocyte-N,stCancer
+CYP2A6,Hepatocyte-N,stCancer
+HGFAC,Hepatocyte-N,stCancer
+CYP2C8,Hepatocyte-N,stCancer
+CYP2E1,Hepatocyte-N,stCancer
+RDH16,Hepatocyte-N,stCancer
+SPP2,Hepatocyte-N,stCancer
+UROC1,Hepatocyte-N,stCancer
+AFM,Hepatocyte-N,stCancer
+PCK1,Hepatocyte-N,stCancer
+F9,Hepatocyte-N,stCancer
+CYP4A11,Hepatocyte-N,stCancer
+SERPINA11,Hepatocyte-N,stCancer
+APOA5,Hepatocyte-N,stCancer
+CYP8B1,Hepatocyte-N,stCancer
+SLC10A1,Hepatocyte-N,stCancer
+DCN,HSC/mFB-N,azimuth
+ACTA2,HSC/mFB-N,azimuth
+IGFBP3,HSC/mFB-N,azimuth
+IGFBP7,HSC/mFB-N,azimuth
+COLEC11,HSC/mFB-N,azimuth
+MYL9,HSC/mFB-N,azimuth
+COL1A1,HSC/mFB-N,azimuth
+COL3A1,HSC/mFB-N,azimuth
+RGS5,HSC/mFB-N,azimuth
+TPM2,HSC/mFB-N,azimuth
+ALOX15,iDC-N,stCancer
+F13A1,iDC-N,stCancer
+CCL13,iDC-N,stCancer
+CCL17,iDC-N,stCancer
+CCL18,iDC-N,stCancer
+CCL23,iDC-N,stCancer
+CCL24,iDC-N,stCancer
+CD209,iDC-N,stCancer
+SYP,Ito cell (hepatic stellate cell)-N,cellmarker
+NGFR,Ito cell (hepatic stellate cell)-N,cellmarker
+ACTA2,Ito cell (hepatic stellate cell)-N,cellmarker
+LRAT,Ito cell (hepatic stellate cell)-N,cellmarker
+GFAP,Ito cell (hepatic stellate cell)-N,cellmarker
+FAP,Ito cell (hepatic stellate cell)-N,cellmarker
+ITGAM,Kupffer cell-N,cellmarker
+CD14,Kupffer cell-N,cellmarker
+ITGB2,Kupffer cell-N,cellmarker
+FCGR2A,Kupffer cell-N,cellmarker
+FCGR2B,Kupffer cell-N,cellmarker
+FCGR2C,Kupffer cell-N,cellmarker
+CD68,Kupffer cell-N,cellmarker
+CD163,Kupffer cell-N,cellmarker
+CLEC4F,Kupffer cell-N,cellmarker
+VSIG4,Kupffer cell-N,cellmarker
+AADAC,Liver bud hepatic cell-N,cellmarker
+ABHD14B,Liver bud hepatic cell-N,cellmarker
+ABLIM3,Liver bud hepatic cell-N,cellmarker
+ACSL1,Liver bud hepatic cell-N,cellmarker
+AHSP,Liver bud hepatic cell-N,cellmarker
+AIMP2,Liver bud hepatic cell-N,cellmarker
+AK2,Liver bud hepatic cell-N,cellmarker
+AKR1C1,Liver bud hepatic cell-N,cellmarker
+AKR1C2,Liver bud hepatic cell-N,cellmarker
+ALAS2,Liver bud hepatic cell-N,cellmarker
+ALB,Liver bud hepatic cell-N,cellmarker
+ALG8,Liver bud hepatic cell-N,cellmarker
+AMBP,Liver bud hepatic cell-N,cellmarker
+APOH,Liver bud hepatic cell-N,cellmarker
+APOL1,Liver bud hepatic cell-N,cellmarker
+ASNSD1,Liver bud hepatic cell-N,cellmarker
+AZGP1,Liver bud hepatic cell-N,cellmarker
+BHMT2,Liver bud hepatic cell-N,cellmarker
+BID,Liver bud hepatic cell-N,cellmarker
+C19orf33,Liver bud hepatic cell-N,cellmarker
+C1R,Liver bud hepatic cell-N,cellmarker
+C1S,Liver bud hepatic cell-N,cellmarker
+CARHSP1,Liver bud hepatic cell-N,cellmarker
+CASP7,Liver bud hepatic cell-N,cellmarker
+CCL20,Liver bud hepatic cell-N,cellmarker
+CD47,Liver bud hepatic cell-N,cellmarker
+CD58,Liver bud hepatic cell-N,cellmarker
+CDC37L1,Liver bud hepatic cell-N,cellmarker
+CFH,Liver bud hepatic cell-N,cellmarker
+CFHR1,Liver bud hepatic cell-N,cellmarker
+CHCHD2,Liver bud hepatic cell-N,cellmarker
+CKLF,Liver bud hepatic cell-N,cellmarker
+CLDN1,Liver bud hepatic cell-N,cellmarker
+CPB2,Liver bud hepatic cell-N,cellmarker
+CPM,Liver bud hepatic cell-N,cellmarker
+CPNE8,Liver bud hepatic cell-N,cellmarker
+CSRP1,Liver bud hepatic cell-N,cellmarker
+CYP2J2,Liver bud hepatic cell-N,cellmarker
+CYP3A7,Liver bud hepatic cell-N,cellmarker
+CYP4V2,Liver bud hepatic cell-N,cellmarker
+DDX21,Liver bud hepatic cell-N,cellmarker
+DIAPH2,Liver bud hepatic cell-N,cellmarker
+DNAJC12,Liver bud hepatic cell-N,cellmarker
+DPM3,Liver bud hepatic cell-N,cellmarker
+DUSP23,Liver bud hepatic cell-N,cellmarker
+ECT2,Liver bud hepatic cell-N,cellmarker
+EFHD2,Liver bud hepatic cell-N,cellmarker
+EIF1AY,Liver bud hepatic cell-N,cellmarker
+ELOVL5,Liver bud hepatic cell-N,cellmarker
+EMP2,Liver bud hepatic cell-N,cellmarker
+EMP3,Liver bud hepatic cell-N,cellmarker
+ENPP1,Liver bud hepatic cell-N,cellmarker
+ERICH5,Liver bud hepatic cell-N,cellmarker
+ESF1,Liver bud hepatic cell-N,cellmarker
+EVA1A,Liver bud hepatic cell-N,cellmarker
+F5,Liver bud hepatic cell-N,cellmarker
+FAM216A,Liver bud hepatic cell-N,cellmarker
+FARSB,Liver bud hepatic cell-N,cellmarker
+FILIP1L,Liver bud hepatic cell-N,cellmarker
+FKBP4,Liver bud hepatic cell-N,cellmarker
+FKBP5,Liver bud hepatic cell-N,cellmarker
+FSTL3,Liver bud hepatic cell-N,cellmarker
+FTH1,Liver bud hepatic cell-N,cellmarker
+FXYD1,Liver bud hepatic cell-N,cellmarker
+FXYD2,Liver bud hepatic cell-N,cellmarker
+GAL,Liver bud hepatic cell-N,cellmarker
+GBP1,Liver bud hepatic cell-N,cellmarker
+GC,Liver bud hepatic cell-N,cellmarker
+GLIPR1,Liver bud hepatic cell-N,cellmarker
+GLRX2,Liver bud hepatic cell-N,cellmarker
+GMNN,Liver bud hepatic cell-N,cellmarker
+GNAI1,Liver bud hepatic cell-N,cellmarker
+GPX7,Liver bud hepatic cell-N,cellmarker
+GTF3A,Liver bud hepatic cell-N,cellmarker
+H2AFJ,Liver bud hepatic cell-N,cellmarker
+HIST1H2BK,Liver bud hepatic cell-N,cellmarker
+HIST2H2AA4,Liver bud hepatic cell-N,cellmarker
+HP,Liver bud hepatic cell-N,cellmarker
+HPD,Liver bud hepatic cell-N,cellmarker
+HPRT1,Liver bud hepatic cell-N,cellmarker
+HS3ST3B1,Liver bud hepatic cell-N,cellmarker
+HSPB1,Liver bud hepatic cell-N,cellmarker
+HYPK,Liver bud hepatic cell-N,cellmarker
+IDI1,Liver bud hepatic cell-N,cellmarker
+IFI30,Liver bud hepatic cell-N,cellmarker
+IFI6,Liver bud hepatic cell-N,cellmarker
+IFITM3,Liver bud hepatic cell-N,cellmarker
+IFNAR2,Liver bud hepatic cell-N,cellmarker
+IGFBP4,Liver bud hepatic cell-N,cellmarker
+IL1R1,Liver bud hepatic cell-N,cellmarker
+INO80C,Liver bud hepatic cell-N,cellmarker
+IP6K3,Liver bud hepatic cell-N,cellmarker
+IRAK2,Liver bud hepatic cell-N,cellmarker
+ITIH2,Liver bud hepatic cell-N,cellmarker
+KHDRBS3,Liver bud hepatic cell-N,cellmarker
+KLHL2,Liver bud hepatic cell-N,cellmarker
+KYNU,Liver bud hepatic cell-N,cellmarker
+LBP,Liver bud hepatic cell-N,cellmarker
+LECT2,Liver bud hepatic cell-N,cellmarker
+LMCD1,Liver bud hepatic cell-N,cellmarker
+LRRC61,Liver bud hepatic cell-N,cellmarker
+LTV1,Liver bud hepatic cell-N,cellmarker
+LYRM4,Liver bud hepatic cell-N,cellmarker
+MASP2,Liver bud hepatic cell-N,cellmarker
+MBNL1,Liver bud hepatic cell-N,cellmarker
+MCL1,Liver bud hepatic cell-N,cellmarker
+MET,Liver bud hepatic cell-N,cellmarker
+METTL5,Liver bud hepatic cell-N,cellmarker
+MGLL,Liver bud hepatic cell-N,cellmarker
+MRPL33,Liver bud hepatic cell-N,cellmarker
+MRPS28,Liver bud hepatic cell-N,cellmarker
+MT1A,Liver bud hepatic cell-N,cellmarker
+MT1E,Liver bud hepatic cell-N,cellmarker
+MT1F,Liver bud hepatic cell-N,cellmarker
+MT1G,Liver bud hepatic cell-N,cellmarker
+MT1H,Liver bud hepatic cell-N,cellmarker
+MT1HL1,Liver bud hepatic cell-N,cellmarker
+MT1M,Liver bud hepatic cell-N,cellmarker
+MT1X,Liver bud hepatic cell-N,cellmarker
+MT2A,Liver bud hepatic cell-N,cellmarker
+MYC,Liver bud hepatic cell-N,cellmarker
+NDUFAF2,Liver bud hepatic cell-N,cellmarker
+NDUFAF4,Liver bud hepatic cell-N,cellmarker
+NFIC,Liver bud hepatic cell-N,cellmarker
+NIP7,Liver bud hepatic cell-N,cellmarker
+NME1,Liver bud hepatic cell-N,cellmarker
+NMI,Liver bud hepatic cell-N,cellmarker
+NOP16,Liver bud hepatic cell-N,cellmarker
+NR1H4,Liver bud hepatic cell-N,cellmarker
+OPN3,Liver bud hepatic cell-N,cellmarker
+ORM1,Liver bud hepatic cell-N,cellmarker
+ORM2,Liver bud hepatic cell-N,cellmarker
+OSMR,Liver bud hepatic cell-N,cellmarker
+P2RY6,Liver bud hepatic cell-N,cellmarker
+PALMD,Liver bud hepatic cell-N,cellmarker
+PCF11,Liver bud hepatic cell-N,cellmarker
+PCOLCE2,Liver bud hepatic cell-N,cellmarker
+PDLIM7,Liver bud hepatic cell-N,cellmarker
+PID1,Liver bud hepatic cell-N,cellmarker
+PLEK2,Liver bud hepatic cell-N,cellmarker
+PLP2,Liver bud hepatic cell-N,cellmarker
+POLE3,Liver bud hepatic cell-N,cellmarker
+POLE4,Liver bud hepatic cell-N,cellmarker
+POLR3K,Liver bud hepatic cell-N,cellmarker
+PON3,Liver bud hepatic cell-N,cellmarker
+PPIA,Liver bud hepatic cell-N,cellmarker
+PPIF,Liver bud hepatic cell-N,cellmarker
+PRG4,Liver bud hepatic cell-N,cellmarker
+PSME2,Liver bud hepatic cell-N,cellmarker
+PTRH1,Liver bud hepatic cell-N,cellmarker
+RAB27A,Liver bud hepatic cell-N,cellmarker
+RAB31,Liver bud hepatic cell-N,cellmarker
+RAB32,Liver bud hepatic cell-N,cellmarker
+RARRES2,Liver bud hepatic cell-N,cellmarker
+RBP1,Liver bud hepatic cell-N,cellmarker
+RCL1,Liver bud hepatic cell-N,cellmarker
+RHOB,Liver bud hepatic cell-N,cellmarker
+RHOQ,Liver bud hepatic cell-N,cellmarker
+RRAD,Liver bud hepatic cell-N,cellmarker
+RRP15,Liver bud hepatic cell-N,cellmarker
+RSU1,Liver bud hepatic cell-N,cellmarker
+S100A6,Liver bud hepatic cell-N,cellmarker
+SAA1,Liver bud hepatic cell-N,cellmarker
+SAA2,Liver bud hepatic cell-N,cellmarker
+SAA4,Liver bud hepatic cell-N,cellmarker
+SCN9A,Liver bud hepatic cell-N,cellmarker
+SDSL,Liver bud hepatic cell-N,cellmarker
+SEC14L2,Liver bud hepatic cell-N,cellmarker
+SERPINA3,Liver bud hepatic cell-N,cellmarker
+SERPINA4,Liver bud hepatic cell-N,cellmarker
+SERPINB8,Liver bud hepatic cell-N,cellmarker
+SERPINC1,Liver bud hepatic cell-N,cellmarker
+SERPINE1,Liver bud hepatic cell-N,cellmarker
+SERPINF1,Liver bud hepatic cell-N,cellmarker
+SF3B5,Liver bud hepatic cell-N,cellmarker
+SFN,Liver bud hepatic cell-N,cellmarker
+SIRPA,Liver bud hepatic cell-N,cellmarker
+SLC16A7,Liver bud hepatic cell-N,cellmarker
+SLC38A2,Liver bud hepatic cell-N,cellmarker
+SNRPA,Liver bud hepatic cell-N,cellmarker
+SOD2,Liver bud hepatic cell-N,cellmarker
+SP110,Liver bud hepatic cell-N,cellmarker
+SPP2,Liver bud hepatic cell-N,cellmarker
+SPRYD7,Liver bud hepatic cell-N,cellmarker
+STEAP3,Liver bud hepatic cell-N,cellmarker
+SVIP,Liver bud hepatic cell-N,cellmarker
+TGFBI,Liver bud hepatic cell-N,cellmarker
+TGM2,Liver bud hepatic cell-N,cellmarker
+TIMP1,Liver bud hepatic cell-N,cellmarker
+TMEM109,Liver bud hepatic cell-N,cellmarker
+TMEM176A,Liver bud hepatic cell-N,cellmarker
+TMEM176B,Liver bud hepatic cell-N,cellmarker
+TNFSF14,Liver bud hepatic cell-N,cellmarker
+TUBA1B,Liver bud hepatic cell-N,cellmarker
+TUBA4A,Liver bud hepatic cell-N,cellmarker
+TYW3,Liver bud hepatic cell-N,cellmarker
+UGP2,Liver bud hepatic cell-N,cellmarker
+UGT2B4,Liver bud hepatic cell-N,cellmarker
+UGT2B7,Liver bud hepatic cell-N,cellmarker
+VAMP5,Liver bud hepatic cell-N,cellmarker
+VIM,Liver bud hepatic cell-N,cellmarker
+PYGB,Liver progenitor cell-N,cellmarker
+CD24,Liver progenitor cell-N,cellmarker
+KRT19,Liver progenitor cell-N,cellmarker
+KRT7,Liver progenitor cell-N,cellmarker
+EPCAM,Liver progenitor cell-N,cellmarker
+KRT19,Liver stem cell-T,cellmarker
+EGF,Liver stem cell-T,cellmarker
+GSTP1,Liver stem cell-T,cellmarker
+H19,Liver stem cell-T,cellmarker
+HGF,Liver stem cell-T,cellmarker
+ITGAM,Macrophages M1-N,stCancer
+CD68,Macrophages M1-N,stCancer
+FCGR3A,Macrophages M1-N,stCancer
+FCGR2A,Macrophages M1-N,stCancer
+FCGR1A,Macrophages M1-N,stCancer
+CD80,Macrophages M1-N,stCancer
+CD86,Macrophages M1-N,stCancer
+HLA-DRB5,Macrophages M1-N,stCancer
+TLR4,Macrophages M1-N,stCancer
+TNF,Macrophages M1-N,stCancer
+IL1A,Macrophages M1-N,stCancer
+IL1B,Macrophages M1-N,stCancer
+IL12,Macrophages M1-N,stCancer
+IL12A,Macrophages M1-N,stCancer
+IL12B,Macrophages M1-N,stCancer
+IL6,Macrophages M1-N,stCancer
+NOS2,Macrophages M1-N,stCancer
+ITGAM,Macrophages M2-N,stCancer
+CD68,Macrophages M2-N,stCancer
+CD163,Macrophages M2-N,stCancer
+MRC1,Macrophages M2-N,stCancer
+IL10,Macrophages M2-N,stCancer
+TGFB1,Macrophages M2-N,stCancer
+IDO1,Macrophages M2-N,stCancer
+IL8,Macrophages M2-N,stCancer
+CCL2,Macrophages M2-N,stCancer
+CHIT1,Macrophages-N,stCancer
+CYP19A1,Macrophages-N,stCancer
+HK3,Macrophages-N,stCancer
+MSR1,Macrophages-N,stCancer
+VSIG4,Macrophages-N,stCancer
+CLEC5A,Macrophages-N,stCancer
+ADAMDEC1,Macrophages-N,stCancer
+DNASE2B,Macrophages-N,stCancer
+SPINK1,Malignant hepatocyte-T,stCancer
+GPC3,Malignant hepatocyte-T,stCancer
+AKR1B10,Malignant hepatocyte-T,stCancer
+TOP2A,Malignant hepatocyte-T,stCancer
+REG3A,Malignant hepatocyte-T,stCancer
+CAP2,Malignant hepatocyte-T,stCancer
+UBE2C,Malignant hepatocyte-T,stCancer
+MDK,Malignant hepatocyte-T,stCancer
+LCN2,Malignant hepatocyte-T,stCancer
+AURKA,Malignant hepatocyte-T,stCancer
+CD27,Memory B cell-N,cellmarker
+CD3D,Memory T cell-N,cellmarker
+CD3E,Memory T cell-N,cellmarker
+CD3G,Memory T cell-N,cellmarker
+PTPRC,Memory T cell-N,cellmarker
+PTPRC,Mesenchymal cell-N,cellmarker
+TFRC,Mesenchymal cell-N,cellmarker
+DLK1,Mesenchymal cell-N,cellmarker
+PDGFRA,Mesenchymal cell-N,cellmarker
+ENG,Mesenchymal cell-N,cellmarker
+ALCAM,Mesenchymal cell-N,cellmarker
+AKAP12,Mesenchymal cell-N,cellmarker
+CCDC86,Mesenchymal cell-N,cellmarker
+CCL2,Mesenchymal cell-N,cellmarker
+CDC42EP2,Mesenchymal cell-N,cellmarker
+COTL1,Mesenchymal cell-N,cellmarker
+CTSC,Mesenchymal cell-N,cellmarker
+DACT1,Mesenchymal cell-N,cellmarker
+DKK3,Mesenchymal cell-N,cellmarker
+EDNRA,Mesenchymal cell-N,cellmarker
+FJX1,Mesenchymal cell-N,cellmarker
+FOSL1,Mesenchymal cell-N,cellmarker
+FSTL3,Mesenchymal cell-N,cellmarker
+FXYD6,Mesenchymal cell-N,cellmarker
+GADD45B,Mesenchymal cell-N,cellmarker
+GPM6B,Mesenchymal cell-N,cellmarker
+GPX7,Mesenchymal cell-N,cellmarker
+HES4,Mesenchymal cell-N,cellmarker
+HOXB2,Mesenchymal cell-N,cellmarker
+HSPB6,Mesenchymal cell-N,cellmarker
+ID3,Mesenchymal cell-N,cellmarker
+IGFBP2,Mesenchymal cell-N,cellmarker
+IGFBP7,Mesenchymal cell-N,cellmarker
+ITGA1,Mesenchymal cell-N,cellmarker
+LRRC17,Mesenchymal cell-N,cellmarker
+MDK,Mesenchymal cell-N,cellmarker
+MPZL1,Mesenchymal cell-N,cellmarker
+NDN,Mesenchymal cell-N,cellmarker
+NXT1,Mesenchymal cell-N,cellmarker
+PDLIM7,Mesenchymal cell-N,cellmarker
+PLTP,Mesenchymal cell-N,cellmarker
+PRMT1,Mesenchymal cell-N,cellmarker
+PTGES2,Mesenchymal cell-N,cellmarker
+RAB35,Mesenchymal cell-N,cellmarker
+RHBDD2,Mesenchymal cell-N,cellmarker
+ROR1,Mesenchymal cell-N,cellmarker
+RRP9,Mesenchymal cell-N,cellmarker
+SF3A2,Mesenchymal cell-N,cellmarker
+SORBS3,Mesenchymal cell-N,cellmarker
+SVIL,Mesenchymal cell-N,cellmarker
+TMEM98,Mesenchymal cell-N,cellmarker
+TOR3A,Mesenchymal cell-N,cellmarker
+USP46,Mesenchymal cell-N,cellmarker
+WDR1,Mesenchymal cell-N,cellmarker
+YRDC,Mesenchymal cell-N,cellmarker
+ZBTB1,Mesenchymal cell-N,cellmarker
+ENG,Mesenchymal stem cell-N,cellmarker
+ITGB1,Mesenchymal stem cell-N,cellmarker
+CD34,Mesenchymal stem cell-N,cellmarker
+THY1,Mesenchymal stem cell-N,cellmarker
+ALCAM,Mesenchymal stem cell-N,cellmarker
+CD44,Mesenchymal stem cell-N,cellmarker
+NT5E,Mesenchymal stem cell-N,cellmarker
+HTR7,Mesenchymal stem cell-N,stCancer
+MMP17,Mesenchymal stem cell-N,stCancer
+PLA2G5,Mesenchymal stem cell-N,stCancer
+CDKL5,Mesenchymal stem cell-N,stCancer
+PKD2L1,Mesenchymal stem cell-N,stCancer
+ADAMTS12,Mesenchymal stem cell-N,stCancer
+ZNRF4,Mesenchymal stem cell-N,stCancer
+CTRB2,Mesenchymal stem cell-N,stCancer
+NGFR,Mesenchymal stromal cell-N,cellmarker
+MPL,Migrating cancer stem cell-T,cellmarker
+CDCP1,Migrating cancer stem cell-T,cellmarker
+CD14,Monocyte-N,cellmarker
+FCGR3A,Monocyte-N,cellmarker
+FCGR3B,Monocyte-N,cellmarker
+CD68,Monocyte-N,cellmarker
+AIF1,Monocyte-N,stCancer
+CYBB,Monocyte-N,stCancer
+FCAR,Monocyte-N,stCancer
+FCN1,Monocyte-N,stCancer
+MNDA,Monocyte-N,stCancer
+CFP,Monocyte-N,stCancer
+S100A12,Monocyte-N,stCancer
+CD163,Monocyte-N,stCancer
+CLEC5A,Monocyte-N,stCancer
+TREM1,Monocyte-N,stCancer
+RETN,Monocyte-N,stCancer
+FOLR2,Monocyte-N,stCancer
+MS4A6A,Monocyte-N,stCancer
+LILRA5,Monocyte-N,stCancer
+ADAM12,Mucosal-associated invariant T cell-T,cellmarker
+APOL3,Mucosal-associated invariant T cell-T,cellmarker
+B3GALT2,Mucosal-associated invariant T cell-T,cellmarker
+CCR1,Mucosal-associated invariant T cell-T,cellmarker
+CCR2,Mucosal-associated invariant T cell-T,cellmarker
+CCR6,Mucosal-associated invariant T cell-T,cellmarker
+CD160,Mucosal-associated invariant T cell-T,cellmarker
+CD40LG,Mucosal-associated invariant T cell-T,cellmarker
+CEBPD,Mucosal-associated invariant T cell-T,cellmarker
+CERK,Mucosal-associated invariant T cell-T,cellmarker
+COLQ,Mucosal-associated invariant T cell-T,cellmarker
+CTSH,Mucosal-associated invariant T cell-T,cellmarker
+DKK3,Mucosal-associated invariant T cell-T,cellmarker
+DPP4,Mucosal-associated invariant T cell-T,cellmarker
+DUSP1,Mucosal-associated invariant T cell-T,cellmarker
+EDEM2,Mucosal-associated invariant T cell-T,cellmarker
+ERN1,Mucosal-associated invariant T cell-T,cellmarker
+FKBP11,Mucosal-associated invariant T cell-T,cellmarker
+FLT4,Mucosal-associated invariant T cell-T,cellmarker
+GALC,Mucosal-associated invariant T cell-T,cellmarker
+GPR171,Mucosal-associated invariant T cell-T,cellmarker
+GPR65,Mucosal-associated invariant T cell-T,cellmarker
+GYG1,Mucosal-associated invariant T cell-T,cellmarker
+HACL1,Mucosal-associated invariant T cell-T,cellmarker
+HPGD,Mucosal-associated invariant T cell-T,cellmarker
+IFNGR1,Mucosal-associated invariant T cell-T,cellmarker
+IKZF2,Mucosal-associated invariant T cell-T,cellmarker
+IL12RB2,Mucosal-associated invariant T cell-T,cellmarker
+IL18R1,Mucosal-associated invariant T cell-T,cellmarker
+IL18RAP,Mucosal-associated invariant T cell-T,cellmarker
+IL23R,Mucosal-associated invariant T cell-T,cellmarker
+IL4I1,Mucosal-associated invariant T cell-T,cellmarker
+JAML,Mucosal-associated invariant T cell-T,cellmarker
+KLRB1,Mucosal-associated invariant T cell-T,cellmarker
+LST1,Mucosal-associated invariant T cell-T,cellmarker
+LTK,Mucosal-associated invariant T cell-T,cellmarker
+MBOAT1,Mucosal-associated invariant T cell-T,cellmarker
+ME1,Mucosal-associated invariant T cell-T,cellmarker
+MKNK1,Mucosal-associated invariant T cell-T,cellmarker
+NCR3,Mucosal-associated invariant T cell-T,cellmarker
+NFKBIA,Mucosal-associated invariant T cell-T,cellmarker
+NR1D1,Mucosal-associated invariant T cell-T,cellmarker
+NRIP1,Mucosal-associated invariant T cell-T,cellmarker
+ODF2L,Mucosal-associated invariant T cell-T,cellmarker
+P2RY14,Mucosal-associated invariant T cell-T,cellmarker
+PBXIP1,Mucosal-associated invariant T cell-T,cellmarker
+PDK3,Mucosal-associated invariant T cell-T,cellmarker
+PHACTR2,Mucosal-associated invariant T cell-T,cellmarker
+PNP,Mucosal-associated invariant T cell-T,cellmarker
+PRNP,Mucosal-associated invariant T cell-T,cellmarker
+RORA,Mucosal-associated invariant T cell-T,cellmarker
+RORC,Mucosal-associated invariant T cell-T,cellmarker
+RUNX2,Mucosal-associated invariant T cell-T,cellmarker
+SESN1,Mucosal-associated invariant T cell-T,cellmarker
+SLAMF1,Mucosal-associated invariant T cell-T,cellmarker
+SLC4A10,Mucosal-associated invariant T cell-T,cellmarker
+SPOCK2,Mucosal-associated invariant T cell-T,cellmarker
+SYTL2,Mucosal-associated invariant T cell-T,cellmarker
+TBC1D31,Mucosal-associated invariant T cell-T,cellmarker
+TC2N,Mucosal-associated invariant T cell-T,cellmarker
+TLE1,Mucosal-associated invariant T cell-T,cellmarker
+TMEM71,Mucosal-associated invariant T cell-T,cellmarker
+TMIGD2,Mucosal-associated invariant T cell-T,cellmarker
+TNF,Mucosal-associated invariant T cell-T,cellmarker
+TRAT1,Mucosal-associated invariant T cell-T,cellmarker
+TSPAN15,Mucosal-associated invariant T cell-T,cellmarker
+TTC39C,Mucosal-associated invariant T cell-T,cellmarker
+ZBTB16,Mucosal-associated invariant T cell-T,cellmarker
+ITGAM,Myeloid-derived suppressor cell-T,cellmarker
+CD33,Myeloid-derived suppressor cell-T,cellmarker
+C1QB,Myeloid-N,azimuth
+C1QA,Myeloid-N,azimuth
+LYZ,Myeloid-N,azimuth
+S100A9,Myeloid-N,azimuth
+S100A8,Myeloid-N,azimuth
+TYROBP,Myeloid-N,azimuth
+AIF1,Myeloid-N,azimuth
+LST1,Myeloid-N,azimuth
+CST3,Myeloid-N,azimuth
+HLA-DRA,Myeloid-N,azimuth
+ITGAX,Myeloid-N,stCancer
+CD33,Myeloid-N,stCancer
+CEACAM8,Myeloid-N,stCancer
+CD68,Myeloid-N,stCancer
+CD163,Myeloid-N,stCancer
+ACTA2,Myofibroblast-N,cellmarker
+RBP1,Myofibroblast-N,cellmarker
+VIM,Myofibroblast-N,cellmarker
+FCGR3A,Natural killer cell-N,cellmarker
+FCGR3B,Natural killer cell-N,cellmarker
+NCAM1,Natural killer cell-N,cellmarker
+NCAM1,Natural killer cell-N,stCancer
+KLRF1,Natural killer cell-N,stCancer
+NCR1,Natural killer cell-N,stCancer
+KLRC1,Natural killer cell-N,stCancer
+CD3D,Natural killer T (NKT) cell-N,cellmarker
+CD3E,Natural killer T (NKT) cell-N,cellmarker
+CD3G,Natural killer T (NKT) cell-N,cellmarker
+NCAM1,Natural killer T (NKT) cell-N,cellmarker
+CLC,Neutrophils-N,stCancer
+CSF3R,Neutrophils-N,stCancer
+FCGR3B,Neutrophils-N,stCancer
+FPR2,Neutrophils-N,stCancer
+HBB,Neutrophils-N,stCancer
+CXCR2,Neutrophils-N,stCancer
+S100A12,Neutrophils-N,stCancer
+P2RY13,Neutrophils-N,stCancer
+TREM1,Neutrophils-N,stCancer
+IGLL5,Plasma-N,azimuth
+MZB1,Plasma-N,azimuth
+DERL3,Plasma-N,azimuth
+SSR4,Plasma-N,azimuth
+FKBP11,Plasma-N,azimuth
+XBP1,Plasma-N,azimuth
+SEC11C,Plasma-N,azimuth
+ITM2C,Plasma-N,azimuth
+HERPUD1,Plasma-N,azimuth
+CD27,Plasma-N,azimuth
+GP1BA,Platelet-N,cellmarker
+KRT19,Progenitor cell-N,cellmarker
+KRT7,Progenitor cell-N,cellmarker
+NCAM1,Progenitor cell-N,cellmarker
+DLK1,Progenitor cell-N,cellmarker
+AFP,Progenitor cell-N,cellmarker
+PROM1,Progenitor cell-N,cellmarker
+KRT19,Progenitor cell-T,cellmarker
+IL2RA,Regulatory T (Treg) cell-N,cellmarker
+CTLA4,Regulatory T (Treg) cell-N,cellmarker
+FOXP3,Regulatory T (Treg) cell-N,cellmarker
+CCR4,Regulatory T (Treg) cell-N,stCancer
+CCR8,Regulatory T (Treg) cell-N,stCancer
+CTLA4,Regulatory T (Treg) cell-N,stCancer
+GPR25,Regulatory T (Treg) cell-N,stCancer
+IL2RA,Regulatory T (Treg) cell-N,stCancer
+KCNA2,Regulatory T (Treg) cell-N,stCancer
+LAIR2,Regulatory T (Treg) cell-N,stCancer
+HS3ST3B1,Regulatory T (Treg) cell-N,stCancer
+MCF2L2,Regulatory T (Treg) cell-N,stCancer
+FOXP3,Regulatory T (Treg) cell-N,stCancer
+ABI2,Regulatory T (Treg) cell-T,cellmarker
+ACOT9,Regulatory T (Treg) cell-T,cellmarker
+ACP5,Regulatory T (Treg) cell-T,cellmarker
+ACSL4,Regulatory T (Treg) cell-T,cellmarker
+ACTA2,Regulatory T (Treg) cell-T,cellmarker
+ACTR3C,Regulatory T (Treg) cell-T,cellmarker
+ADAM10,Regulatory T (Treg) cell-T,cellmarker
+ADAT2,Regulatory T (Treg) cell-T,cellmarker
+ADCY3,Regulatory T (Treg) cell-T,cellmarker
+ADI1,Regulatory T (Treg) cell-T,cellmarker
+ADORA2A,Regulatory T (Treg) cell-T,cellmarker
+ADPRH,Regulatory T (Treg) cell-T,cellmarker
+AFTPH,Regulatory T (Treg) cell-T,cellmarker
+AKAP5,Regulatory T (Treg) cell-T,cellmarker
+AKIP1,Regulatory T (Treg) cell-T,cellmarker
+AKIRIN2,Regulatory T (Treg) cell-T,cellmarker
+ALDH3A2,Regulatory T (Treg) cell-T,cellmarker
+ANKRD10,Regulatory T (Treg) cell-T,cellmarker
+APLP2,Regulatory T (Treg) cell-T,cellmarker
+ARHGAP9,Regulatory T (Treg) cell-T,cellmarker
+ARHGEF12,Regulatory T (Treg) cell-T,cellmarker
+ARID5B,Regulatory T (Treg) cell-T,cellmarker
+ARPC1A,Regulatory T (Treg) cell-T,cellmarker
+ARPC1B,Regulatory T (Treg) cell-T,cellmarker
+ARPP19,Regulatory T (Treg) cell-T,cellmarker
+ASB2,Regulatory T (Treg) cell-T,cellmarker
+ASXL2,Regulatory T (Treg) cell-T,cellmarker
+ATOX1,Regulatory T (Treg) cell-T,cellmarker
+ATP13A3,Regulatory T (Treg) cell-T,cellmarker
+ATP1B1,Regulatory T (Treg) cell-T,cellmarker
+ATP6V0A1,Regulatory T (Treg) cell-T,cellmarker
+ATP6V1C2,Regulatory T (Treg) cell-T,cellmarker
+BACH1,Regulatory T (Treg) cell-T,cellmarker
+BATF,Regulatory T (Treg) cell-T,cellmarker
+BEX3,Regulatory T (Treg) cell-T,cellmarker
+BIRC3,Regulatory T (Treg) cell-T,cellmarker
+BST2,Regulatory T (Treg) cell-T,cellmarker
+BTG3,Regulatory T (Treg) cell-T,cellmarker
+C15orf53,Regulatory T (Treg) cell-T,cellmarker
+C16orf87,Regulatory T (Treg) cell-T,cellmarker
+C21orf91,Regulatory T (Treg) cell-T,cellmarker
+C3AR1,Regulatory T (Treg) cell-T,cellmarker
+C7orf25,Regulatory T (Treg) cell-T,cellmarker
+C9orf16,Regulatory T (Treg) cell-T,cellmarker
+CACYBP,Regulatory T (Treg) cell-T,cellmarker
+CADM1,Regulatory T (Treg) cell-T,cellmarker
+CALM3,Regulatory T (Treg) cell-T,cellmarker
+CARD16,Regulatory T (Treg) cell-T,cellmarker
+CARD17,Regulatory T (Treg) cell-T,cellmarker
+CASP1,Regulatory T (Treg) cell-T,cellmarker
+CBX5,Regulatory T (Treg) cell-T,cellmarker
+CCDC141,Regulatory T (Treg) cell-T,cellmarker
+CCDC22,Regulatory T (Treg) cell-T,cellmarker
+CCDC50,Regulatory T (Treg) cell-T,cellmarker
+CCND2,Regulatory T (Treg) cell-T,cellmarker
+CCNG2,Regulatory T (Treg) cell-T,cellmarker
+CCR1,Regulatory T (Treg) cell-T,cellmarker
+CCR4,Regulatory T (Treg) cell-T,cellmarker
+CCR8,Regulatory T (Treg) cell-T,cellmarker
+CD177,Regulatory T (Treg) cell-T,cellmarker
+CD27,Regulatory T (Treg) cell-T,cellmarker
+CD58,Regulatory T (Treg) cell-T,cellmarker
+CD59,Regulatory T (Treg) cell-T,cellmarker
+CD7,Regulatory T (Treg) cell-T,cellmarker
+CD70,Regulatory T (Treg) cell-T,cellmarker
+CD74,Regulatory T (Treg) cell-T,cellmarker
+CD79B,Regulatory T (Treg) cell-T,cellmarker
+CD80,Regulatory T (Treg) cell-T,cellmarker
+CD82,Regulatory T (Treg) cell-T,cellmarker
+CD83,Regulatory T (Treg) cell-T,cellmarker
+CDIP1,Regulatory T (Treg) cell-T,cellmarker
+CDKN1A,Regulatory T (Treg) cell-T,cellmarker
+CDKN2A,Regulatory T (Treg) cell-T,cellmarker
+CEACAM1,Regulatory T (Treg) cell-T,cellmarker
+CKAP2,Regulatory T (Treg) cell-T,cellmarker
+CLEC7A,Regulatory T (Treg) cell-T,cellmarker
+CLIP1,Regulatory T (Treg) cell-T,cellmarker
+CLNK,Regulatory T (Treg) cell-T,cellmarker
+CMTM6,Regulatory T (Treg) cell-T,cellmarker
+COG1,Regulatory T (Treg) cell-T,cellmarker
+COL9A2,Regulatory T (Treg) cell-T,cellmarker
+COMMD3,Regulatory T (Treg) cell-T,cellmarker
+COPZ1,Regulatory T (Treg) cell-T,cellmarker
+CORO1B,Regulatory T (Treg) cell-T,cellmarker
+COX5A,Regulatory T (Treg) cell-T,cellmarker
+CREB3L2,Regulatory T (Treg) cell-T,cellmarker
+CREM,Regulatory T (Treg) cell-T,cellmarker
+CSF1,Regulatory T (Treg) cell-T,cellmarker
+CSF2RB,Regulatory T (Treg) cell-T,cellmarker
+CTLA4,Regulatory T (Treg) cell-T,cellmarker
+CTNNA1,Regulatory T (Treg) cell-T,cellmarker
+CTNNB1,Regulatory T (Treg) cell-T,cellmarker
+CTSA,Regulatory T (Treg) cell-T,cellmarker
+CTSC,Regulatory T (Treg) cell-T,cellmarker
+CTSD,Regulatory T (Treg) cell-T,cellmarker
+CTTNBP2NL,Regulatory T (Treg) cell-T,cellmarker
+CXCR3,Regulatory T (Treg) cell-T,cellmarker
+CXCR6,Regulatory T (Treg) cell-T,cellmarker
+DDB2,Regulatory T (Treg) cell-T,cellmarker
+DDIT4,Regulatory T (Treg) cell-T,cellmarker
+DDX24,Regulatory T (Treg) cell-T,cellmarker
+DNPH1,Regulatory T (Treg) cell-T,cellmarker
+DPYSL2,Regulatory T (Treg) cell-T,cellmarker
+DUSP10,Regulatory T (Treg) cell-T,cellmarker
+DUSP16,Regulatory T (Treg) cell-T,cellmarker
+DUSP4,Regulatory T (Treg) cell-T,cellmarker
+DYNC1I2,Regulatory T (Treg) cell-T,cellmarker
+DYNLL1,Regulatory T (Treg) cell-T,cellmarker
+DYNLRB1,Regulatory T (Treg) cell-T,cellmarker
+EBI3,Regulatory T (Treg) cell-T,cellmarker
+ECH1,Regulatory T (Treg) cell-T,cellmarker
+EDARADD,Regulatory T (Treg) cell-T,cellmarker
+EIF4H,Regulatory T (Treg) cell-T,cellmarker
+ENO1,Regulatory T (Treg) cell-T,cellmarker
+ENTPD1,Regulatory T (Treg) cell-T,cellmarker
+EPSTI1,Regulatory T (Treg) cell-T,cellmarker
+ERI1,Regulatory T (Treg) cell-T,cellmarker
+ETV7,Regulatory T (Treg) cell-T,cellmarker
+F5,Regulatory T (Treg) cell-T,cellmarker
+FAM104A,Regulatory T (Treg) cell-T,cellmarker
+FAM110A,Regulatory T (Treg) cell-T,cellmarker
+FAM53B,Regulatory T (Treg) cell-T,cellmarker
+FANCL,Regulatory T (Treg) cell-T,cellmarker
+FANK1,Regulatory T (Treg) cell-T,cellmarker
+FAS,Regulatory T (Treg) cell-T,cellmarker
+FBLN7,Regulatory T (Treg) cell-T,cellmarker
+FKBP1A,Regulatory T (Treg) cell-T,cellmarker
+FMNL3,Regulatory T (Treg) cell-T,cellmarker
+FOXO1,Regulatory T (Treg) cell-T,cellmarker
+FOXP3,Regulatory T (Treg) cell-T,cellmarker
+FYCO1,Regulatory T (Treg) cell-T,cellmarker
+GABARAP,Regulatory T (Treg) cell-T,cellmarker
+GABARAPL1,Regulatory T (Treg) cell-T,cellmarker
+GABPB1,Regulatory T (Treg) cell-T,cellmarker
+GADD45A,Regulatory T (Treg) cell-T,cellmarker
+GADD45G,Regulatory T (Treg) cell-T,cellmarker
+GALM,Regulatory T (Treg) cell-T,cellmarker
+GAPDH,Regulatory T (Treg) cell-T,cellmarker
+GATA3,Regulatory T (Treg) cell-T,cellmarker
+GBP2,Regulatory T (Treg) cell-T,cellmarker
+GBP4,Regulatory T (Treg) cell-T,cellmarker
+GBP5,Regulatory T (Treg) cell-T,cellmarker
+GCNT1,Regulatory T (Treg) cell-T,cellmarker
+GK,Regulatory T (Treg) cell-T,cellmarker
+GLRX,Regulatory T (Treg) cell-T,cellmarker
+GOLGA8A,Regulatory T (Treg) cell-T,cellmarker
+GOLGA8B,Regulatory T (Treg) cell-T,cellmarker
+GOT2,Regulatory T (Treg) cell-T,cellmarker
+GPI,Regulatory T (Treg) cell-T,cellmarker
+GPX1,Regulatory T (Treg) cell-T,cellmarker
+GRINA,Regulatory T (Treg) cell-T,cellmarker
+GRN,Regulatory T (Treg) cell-T,cellmarker
+GSTO1,Regulatory T (Treg) cell-T,cellmarker
+GTF3C6,Regulatory T (Treg) cell-T,cellmarker
+HACD1,Regulatory T (Treg) cell-T,cellmarker
+HADHA,Regulatory T (Treg) cell-T,cellmarker
+HADHB,Regulatory T (Treg) cell-T,cellmarker
+HAVCR2,Regulatory T (Treg) cell-T,cellmarker
+HDAC7,Regulatory T (Treg) cell-T,cellmarker
+HERPUD1,Regulatory T (Treg) cell-T,cellmarker
+HLA-DMA,Regulatory T (Treg) cell-T,cellmarker
+HLA-DQA1,Regulatory T (Treg) cell-T,cellmarker
+HNRNPLL,Regulatory T (Treg) cell-T,cellmarker
+HPGD,Regulatory T (Treg) cell-T,cellmarker
+HPRT1,Regulatory T (Treg) cell-T,cellmarker
+HPSE,Regulatory T (Treg) cell-T,cellmarker
+HSD17B10,Regulatory T (Treg) cell-T,cellmarker
+HSPA1A,Regulatory T (Treg) cell-T,cellmarker
+HSPA1B,Regulatory T (Treg) cell-T,cellmarker
+HSPB1,Regulatory T (Treg) cell-T,cellmarker
+HTATIP2,Regulatory T (Treg) cell-T,cellmarker
+ICA1,Regulatory T (Treg) cell-T,cellmarker
+ICAM3,Regulatory T (Treg) cell-T,cellmarker
+ICOS,Regulatory T (Treg) cell-T,cellmarker
+IFI6,Regulatory T (Treg) cell-T,cellmarker
+IFNAR2,Regulatory T (Treg) cell-T,cellmarker
+IGFLR1,Regulatory T (Treg) cell-T,cellmarker
+IKZF2,Regulatory T (Treg) cell-T,cellmarker
+IKZF4,Regulatory T (Treg) cell-T,cellmarker
+IL10RB,Regulatory T (Treg) cell-T,cellmarker
+IL12RB1,Regulatory T (Treg) cell-T,cellmarker
+IL12RB2,Regulatory T (Treg) cell-T,cellmarker
+IL1R1,Regulatory T (Treg) cell-T,cellmarker
+IL1R2,Regulatory T (Treg) cell-T,cellmarker
+IL21R,Regulatory T (Treg) cell-T,cellmarker
+IL2RA,Regulatory T (Treg) cell-T,cellmarker
+IL2RB,Regulatory T (Treg) cell-T,cellmarker
+IL32,Regulatory T (Treg) cell-T,cellmarker
+INPP1,Regulatory T (Treg) cell-T,cellmarker
+INPP5F,Regulatory T (Treg) cell-T,cellmarker
+IRF4,Regulatory T (Treg) cell-T,cellmarker
+IRF5,Regulatory T (Treg) cell-T,cellmarker
+IRF9,Regulatory T (Treg) cell-T,cellmarker
+ISG15,Regulatory T (Treg) cell-T,cellmarker
+ISOC1,Regulatory T (Treg) cell-T,cellmarker
+KAT2B,Regulatory T (Treg) cell-T,cellmarker
+KCNN4,Regulatory T (Treg) cell-T,cellmarker
+KDM5B,Regulatory T (Treg) cell-T,cellmarker
+KIF20B,Regulatory T (Treg) cell-T,cellmarker
+KIF5B,Regulatory T (Treg) cell-T,cellmarker
+LAIR2,Regulatory T (Treg) cell-T,cellmarker
+LAP3,Regulatory T (Treg) cell-T,cellmarker
+LAPTM4A,Regulatory T (Treg) cell-T,cellmarker
+LAPTM4B,Regulatory T (Treg) cell-T,cellmarker
+LASP1,Regulatory T (Treg) cell-T,cellmarker
+LAT2,Regulatory T (Treg) cell-T,cellmarker
+LAYN,Regulatory T (Treg) cell-T,cellmarker
+LDLRAD4,Regulatory T (Treg) cell-T,cellmarker
+LEPROT,Regulatory T (Treg) cell-T,cellmarker
+LGALS3,Regulatory T (Treg) cell-T,cellmarker
+LMBRD1,Regulatory T (Treg) cell-T,cellmarker
+LMCD1,Regulatory T (Treg) cell-T,cellmarker
+LOC389831,Regulatory T (Treg) cell-T,cellmarker
+LRPAP1,Regulatory T (Treg) cell-T,cellmarker
+LRRC61,Regulatory T (Treg) cell-T,cellmarker
+LTA,Regulatory T (Treg) cell-T,cellmarker
+LY75,Regulatory T (Treg) cell-T,cellmarker
+LY75-CD302,Regulatory T (Treg) cell-T,cellmarker
+LYST,Regulatory T (Treg) cell-T,cellmarker
+MAF,Regulatory T (Treg) cell-T,cellmarker
+MAGEH1,Regulatory T (Treg) cell-T,cellmarker
+MAN1A2,Regulatory T (Treg) cell-T,cellmarker
+MAP1LC3A,Regulatory T (Treg) cell-T,cellmarker
+MAP2K3,Regulatory T (Treg) cell-T,cellmarker
+MAPKAPK3,Regulatory T (Treg) cell-T,cellmarker
+MAST4,Regulatory T (Treg) cell-T,cellmarker
+MBOAT7,Regulatory T (Treg) cell-T,cellmarker
+MCCC2,Regulatory T (Treg) cell-T,cellmarker
+MCL1,Regulatory T (Treg) cell-T,cellmarker
+MCM5,Regulatory T (Treg) cell-T,cellmarker
+METTL7A,Regulatory T (Treg) cell-T,cellmarker
+METTL8,Regulatory T (Treg) cell-T,cellmarker
+MGAT1,Regulatory T (Treg) cell-T,cellmarker
+MICAL2,Regulatory T (Treg) cell-T,cellmarker
+MIIP,Regulatory T (Treg) cell-T,cellmarker
+MRPS6,Regulatory T (Treg) cell-T,cellmarker
+MX1,Regulatory T (Treg) cell-T,cellmarker
+MYO1E,Regulatory T (Treg) cell-T,cellmarker
+MYO5A,Regulatory T (Treg) cell-T,cellmarker
+MYO5C,Regulatory T (Treg) cell-T,cellmarker
+MZB1,Regulatory T (Treg) cell-T,cellmarker
+NAB1,Regulatory T (Treg) cell-T,cellmarker
+NAMPT,Regulatory T (Treg) cell-T,cellmarker
+NAPA,Regulatory T (Treg) cell-T,cellmarker
+NBR1,Regulatory T (Treg) cell-T,cellmarker
+NCF4,Regulatory T (Treg) cell-T,cellmarker
+NCOA3,Regulatory T (Treg) cell-T,cellmarker
+NDFIP2,Regulatory T (Treg) cell-T,cellmarker
+NDUFA13,Regulatory T (Treg) cell-T,cellmarker
+NDUFC2,Regulatory T (Treg) cell-T,cellmarker
+NDUFC2-KCTD14,Regulatory T (Treg) cell-T,cellmarker
+NEDD9,Regulatory T (Treg) cell-T,cellmarker
+NFAT5,Regulatory T (Treg) cell-T,cellmarker
+NINJ1,Regulatory T (Treg) cell-T,cellmarker
+NINJ2,Regulatory T (Treg) cell-T,cellmarker
+NME3,Regulatory T (Treg) cell-T,cellmarker
+NPC2,Regulatory T (Treg) cell-T,cellmarker
+NPTN,Regulatory T (Treg) cell-T,cellmarker
+NSF,Regulatory T (Treg) cell-T,cellmarker
+NUDT5,Regulatory T (Treg) cell-T,cellmarker
+OAS1,Regulatory T (Treg) cell-T,cellmarker
+OAS3,Regulatory T (Treg) cell-T,cellmarker
+OCIAD2,Regulatory T (Treg) cell-T,cellmarker
+OS9,Regulatory T (Treg) cell-T,cellmarker
+OTUD5,Regulatory T (Treg) cell-T,cellmarker
+P2RY10,Regulatory T (Treg) cell-T,cellmarker
+PAIP2,Regulatory T (Treg) cell-T,cellmarker
+PAK2,Regulatory T (Treg) cell-T,cellmarker
+PARK7,Regulatory T (Treg) cell-T,cellmarker
+PCK2,Regulatory T (Treg) cell-T,cellmarker
+PDE4A,Regulatory T (Treg) cell-T,cellmarker
+PDIA6,Regulatory T (Treg) cell-T,cellmarker
+PELI1,Regulatory T (Treg) cell-T,cellmarker
+PGK1,Regulatory T (Treg) cell-T,cellmarker
+PHACTR2,Regulatory T (Treg) cell-T,cellmarker
+PHLDA1,Regulatory T (Treg) cell-T,cellmarker
+PHPT1,Regulatory T (Treg) cell-T,cellmarker
+PHTF2,Regulatory T (Treg) cell-T,cellmarker
+PIM2,Regulatory T (Treg) cell-T,cellmarker
+PIM3,Regulatory T (Treg) cell-T,cellmarker
+PKM,Regulatory T (Treg) cell-T,cellmarker
+PLEKHG2,Regulatory T (Treg) cell-T,cellmarker
+PLTP,Regulatory T (Treg) cell-T,cellmarker
+PMAIP1,Regulatory T (Treg) cell-T,cellmarker
+POU2F2,Regulatory T (Treg) cell-T,cellmarker
+PPM1G,Regulatory T (Treg) cell-T,cellmarker
+PPP1CB,Regulatory T (Treg) cell-T,cellmarker
+PRDM1,Regulatory T (Treg) cell-T,cellmarker
+PRDX1,Regulatory T (Treg) cell-T,cellmarker
+PRDX3,Regulatory T (Treg) cell-T,cellmarker
+PRDX5,Regulatory T (Treg) cell-T,cellmarker
+PRKAR1A,Regulatory T (Treg) cell-T,cellmarker
+PRNP,Regulatory T (Treg) cell-T,cellmarker
+PSEN1,Regulatory T (Treg) cell-T,cellmarker
+PSMA2,Regulatory T (Treg) cell-T,cellmarker
+PSMB1,Regulatory T (Treg) cell-T,cellmarker
+PSMB3,Regulatory T (Treg) cell-T,cellmarker
+PSMB6,Regulatory T (Treg) cell-T,cellmarker
+PSMC2,Regulatory T (Treg) cell-T,cellmarker
+PSMD11,Regulatory T (Treg) cell-T,cellmarker
+PTP4A3,Regulatory T (Treg) cell-T,cellmarker
+PTPRJ,Regulatory T (Treg) cell-T,cellmarker
+PTTG1,Regulatory T (Treg) cell-T,cellmarker
+RAB11FIP1,Regulatory T (Treg) cell-T,cellmarker
+RAP1A,Regulatory T (Treg) cell-T,cellmarker
+RBPJ,Regulatory T (Treg) cell-T,cellmarker
+RCBTB1,Regulatory T (Treg) cell-T,cellmarker
+RFX5,Regulatory T (Treg) cell-T,cellmarker
+RGS1,Regulatory T (Treg) cell-T,cellmarker
+RHBDD2,Regulatory T (Treg) cell-T,cellmarker
+RHOC,Regulatory T (Treg) cell-T,cellmarker
+RNF187,Regulatory T (Treg) cell-T,cellmarker
+RPS27L,Regulatory T (Treg) cell-T,cellmarker
+RTKN2,Regulatory T (Treg) cell-T,cellmarker
+SAMSN1,Regulatory T (Treg) cell-T,cellmarker
+SAT1,Regulatory T (Treg) cell-T,cellmarker
+SCO2,Regulatory T (Treg) cell-T,cellmarker
+SDC4,Regulatory T (Treg) cell-T,cellmarker
+SDF4,Regulatory T (Treg) cell-T,cellmarker
+SEC14L1,Regulatory T (Treg) cell-T,cellmarker
+SEC61A2,Regulatory T (Treg) cell-T,cellmarker
+SERPINB9,Regulatory T (Treg) cell-T,cellmarker
+SERPINE2,Regulatory T (Treg) cell-T,cellmarker
+SFT2D1,Regulatory T (Treg) cell-T,cellmarker
+SGMS1,Regulatory T (Treg) cell-T,cellmarker
+SGPP1,Regulatory T (Treg) cell-T,cellmarker
+SGSH,Regulatory T (Treg) cell-T,cellmarker
+SH2D2A,Regulatory T (Treg) cell-T,cellmarker
+SH3BGRL,Regulatory T (Treg) cell-T,cellmarker
+SIRPG,Regulatory T (Treg) cell-T,cellmarker
+SLA,Regulatory T (Treg) cell-T,cellmarker
+SLAMF1,Regulatory T (Treg) cell-T,cellmarker
+SLC12A6,Regulatory T (Treg) cell-T,cellmarker
+SLC16A1,Regulatory T (Treg) cell-T,cellmarker
+SLC25A38,Regulatory T (Treg) cell-T,cellmarker
+SLC35F2,Regulatory T (Treg) cell-T,cellmarker
+SLC3A2,Regulatory T (Treg) cell-T,cellmarker
+SLC41A1,Regulatory T (Treg) cell-T,cellmarker
+SLC5A3,Regulatory T (Treg) cell-T,cellmarker
+SMC4,Regulatory T (Treg) cell-T,cellmarker
+SMPD3,Regulatory T (Treg) cell-T,cellmarker
+SMS,Regulatory T (Treg) cell-T,cellmarker
+SNX9,Regulatory T (Treg) cell-T,cellmarker
+SOX4,Regulatory T (Treg) cell-T,cellmarker
+SPATS2L,Regulatory T (Treg) cell-T,cellmarker
+SPOCK2,Regulatory T (Treg) cell-T,cellmarker
+SQSTM1,Regulatory T (Treg) cell-T,cellmarker
+SRA1,Regulatory T (Treg) cell-T,cellmarker
+SSH1,Regulatory T (Treg) cell-T,cellmarker
+STAM,Regulatory T (Treg) cell-T,cellmarker
+STAMBPL1,Regulatory T (Treg) cell-T,cellmarker
+STARD7,Regulatory T (Treg) cell-T,cellmarker
+SUMO1,Regulatory T (Treg) cell-T,cellmarker
+SUOX,Regulatory T (Treg) cell-T,cellmarker
+SURF4,Regulatory T (Treg) cell-T,cellmarker
+SYNGR2,Regulatory T (Treg) cell-T,cellmarker
+TBC1D4,Regulatory T (Treg) cell-T,cellmarker
+TBC1D8,Regulatory T (Treg) cell-T,cellmarker
+TET2,Regulatory T (Treg) cell-T,cellmarker
+TFRC,Regulatory T (Treg) cell-T,cellmarker
+THADA,Regulatory T (Treg) cell-T,cellmarker
+TIGIT,Regulatory T (Treg) cell-T,cellmarker
+TLK1,Regulatory T (Treg) cell-T,cellmarker
+TM9SF2,Regulatory T (Treg) cell-T,cellmarker
+TMEM154,Regulatory T (Treg) cell-T,cellmarker
+TMX1,Regulatory T (Treg) cell-T,cellmarker
+TNFAIP3,Regulatory T (Treg) cell-T,cellmarker
+TNFRSF13B,Regulatory T (Treg) cell-T,cellmarker
+TNFRSF18,Regulatory T (Treg) cell-T,cellmarker
+TNFRSF1B,Regulatory T (Treg) cell-T,cellmarker
+TNFRSF4,Regulatory T (Treg) cell-T,cellmarker
+TNFRSF8,Regulatory T (Treg) cell-T,cellmarker
+TNFRSF9,Regulatory T (Treg) cell-T,cellmarker
+TNIP1,Regulatory T (Treg) cell-T,cellmarker
+TNIP3,Regulatory T (Treg) cell-T,cellmarker
+TNS3,Regulatory T (Treg) cell-T,cellmarker
+TOM1,Regulatory T (Treg) cell-T,cellmarker
+TOX,Regulatory T (Treg) cell-T,cellmarker
+TOX2,Regulatory T (Treg) cell-T,cellmarker
+TP53INP1,Regulatory T (Treg) cell-T,cellmarker
+TPI1,Regulatory T (Treg) cell-T,cellmarker
+TPMT,Regulatory T (Treg) cell-T,cellmarker
+TPP1,Regulatory T (Treg) cell-T,cellmarker
+TRAF1,Regulatory T (Treg) cell-T,cellmarker
+TRAF3,Regulatory T (Treg) cell-T,cellmarker
+TRIM69,Regulatory T (Treg) cell-T,cellmarker
+TRPS1,Regulatory T (Treg) cell-T,cellmarker
+TSPAN13,Regulatory T (Treg) cell-T,cellmarker
+TSPYL2,Regulatory T (Treg) cell-T,cellmarker
+TTN,Regulatory T (Treg) cell-T,cellmarker
+TTYH3,Regulatory T (Treg) cell-T,cellmarker
+TULP4,Regulatory T (Treg) cell-T,cellmarker
+TYMP,Regulatory T (Treg) cell-T,cellmarker
+UBE2L6,Regulatory T (Treg) cell-T,cellmarker
+UBE2N,Regulatory T (Treg) cell-T,cellmarker
+UCP2,Regulatory T (Treg) cell-T,cellmarker
+UGP2,Regulatory T (Treg) cell-T,cellmarker
+USP48,Regulatory T (Treg) cell-T,cellmarker
+UXS1,Regulatory T (Treg) cell-T,cellmarker
+VAV3,Regulatory T (Treg) cell-T,cellmarker
+VCP,Regulatory T (Treg) cell-T,cellmarker
+VDR,Regulatory T (Treg) cell-T,cellmarker
+VEZT,Regulatory T (Treg) cell-T,cellmarker
+VMP1,Regulatory T (Treg) cell-T,cellmarker
+VPS54,Regulatory T (Treg) cell-T,cellmarker
+WDFY1,Regulatory T (Treg) cell-T,cellmarker
+WDR83OS,Regulatory T (Treg) cell-T,cellmarker
+WHRN,Regulatory T (Treg) cell-T,cellmarker
+WSB1,Regulatory T (Treg) cell-T,cellmarker
+YJEFN3,Regulatory T (Treg) cell-T,cellmarker
+ZBED2,Regulatory T (Treg) cell-T,cellmarker
+ZBTB32,Regulatory T (Treg) cell-T,cellmarker
+ZC2HC1A,Regulatory T (Treg) cell-T,cellmarker
+ZC3H12D,Regulatory T (Treg) cell-T,cellmarker
+ZC3H7A,Regulatory T (Treg) cell-T,cellmarker
+ZFP36L1,Regulatory T (Treg) cell-T,cellmarker
+ZNF280C,Regulatory T (Treg) cell-T,cellmarker
+ZNF292,Regulatory T (Treg) cell-T,cellmarker
+LGR5,Stem cell-N,cellmarker
+LIN28A,Stem cell-N,cellmarker
+KRT18,Stem cell-N,cellmarker
+KRT19,Stem cell-N,cellmarker
+KIT,Stem cell-N,cellmarker
+CD44,Stem cell-N,cellmarker
+EPCAM,Stem cell-N,cellmarker
+PROM1,Stem cell-N,cellmarker
+ITGA6,Stem cell-N,cellmarker
+NANOG,Stem cell-N,cellmarker
+POU5F1,Stem cell-N,cellmarker
+SOX2,Stem cell-N,cellmarker
+NES,Stem cell-N,cellmarker
+ADAM17,Stem cell-N,cellmarker
+MSI1,Stem cell-N,cellmarker
+DLK1,Stem cell-N,cellmarker
+SOX9,Stem cell-N,cellmarker
+DCLK1,Stem cell-N,cellmarker
+UBD,Stem cell-N,cellmarker
+GSTP1,Stem cell-N,cellmarker
+AFP,Stem cell-N,cellmarker
+THY1,Stem cell-N,cellmarker
+CD34,Stem cell-N,cellmarker
+NCAM1,Stem cell-N,cellmarker
+CD3D,T cell-N,cellmarker
+CD3E,T cell-N,cellmarker
+CD3G,T cell-N,cellmarker
+CD244,T cell-N,cellmarker
+PDCD1,T cell-N,cellmarker
+CD28,T cell-N,cellmarker
+PTPRC,T cell-N,cellmarker
+CD8A,T cell-N,cellmarker
+TRA,T cell-N,cellmarker
+TRB,T cell-N,cellmarker
+CD4,T cell-N,cellmarker
+IL2RA,T cell-N,cellmarker
+CD27,T cell-N,cellmarker
+CD58,T cell-N,cellmarker
+CD7,T cell-N,cellmarker
+CD3D,T cell-N,stCancer
+CD3E,T cell-N,stCancer
+CD3G,T cell-N,stCancer
+CD3D,T helper cell-N,cellmarker
+CD3E,T helper cell-N,cellmarker
+CD3G,T helper cell-N,cellmarker
+CD4,T helper cell-N,cellmarker
+ABCB1,T helper cell-N,cellmarker
+CAPG,T helper cell-N,cellmarker
+CD69,T helper cell-N,cellmarker
+DPP4,T helper cell-N,cellmarker
+DUSP1,T helper cell-N,cellmarker
+GZMK,T helper cell-N,cellmarker
+IFNGR1,T helper cell-N,cellmarker
+PARP8,T helper cell-N,cellmarker
+PVRIG,T helper cell-N,cellmarker
+SLC4A10,T helper cell-N,cellmarker
+CCL5,T/NK-N,azimuth
+KLRB1,T/NK-N,azimuth
+NKG7,T/NK-N,azimuth
+GZMA,T/NK-N,azimuth
+CCL4,T/NK-N,azimuth
+IL7R,T/NK-N,azimuth
+CD69,T/NK-N,azimuth
+CST7,T/NK-N,azimuth
+GZMK,T/NK-N,azimuth
+CD3D,T/NK-N,azimuth
